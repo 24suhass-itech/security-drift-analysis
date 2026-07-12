@@ -1,0 +1,614 @@
+[
+    {
+        "parameter": "access_key_rotation",
+        "framework": "NIST 800-53",
+        "control": "IA-5",
+        "description": "Credential Rotation"
+    },
+    {
+        "parameter": "access_key_rotation",
+        "framework": "ISO 27001",
+        "control": "A.5.18",
+        "description": "Credential Management"
+    },
+    {
+        "parameter": "access_key_rotation",
+        "framework": "CIS IAM",
+        "control": "1.3",
+        "description": "Rotate Keys"
+    },
+    {
+        "parameter": "log_file_validation",
+        "framework": "NIST 800-53",
+        "control": "AU-9",
+        "description": "Protection of Audit Information"
+    },
+    {
+        "parameter": "log_file_validation",
+        "framework": "ISO 27001",
+        "control": "A.8.15",
+        "description": "Log Integrity"
+    },
+    {
+        "parameter": "log_file_validation",
+        "framework": "CIS AWS",
+        "control": "3.3",
+        "description": "Log Validation"
+    },
+    {
+        "parameter": "url_filtering",
+        "framework": "NIST 800-53",
+        "control": "SI-4",
+        "description": "Monitoring"
+    },
+    {
+        "parameter": "url_filtering",
+        "framework": "ISO 27001",
+        "control": "A.8.23",
+        "description": "Web Filtering"
+    },
+    {
+        "parameter": "url_filtering",
+        "framework": "CIS Network",
+        "control": "2.4",
+        "description": "URL Filtering"
+    },
+    {
+        "parameter": "mfa_enabled",
+        "framework": "NIST 800-53",
+        "control": "IA-2",
+        "description": "MFA"
+    },
+    {
+        "parameter": "mfa_enabled",
+        "framework": "ISO 27001",
+        "control": "A.5.17",
+        "description": "Authentication"
+    },
+    {
+        "parameter": "mfa_enabled",
+        "framework": "CIS IAM",
+        "control": "1.1",
+        "description": "Require MFA"
+    },
+    {
+        "parameter": "port_443",
+        "framework": "NIST 800-53",
+        "control": "SC-7",
+        "description": "Boundary Protection"
+    },
+    {
+        "parameter": "port_443",
+        "framework": "ISO 27001",
+        "control": "A.8.20",
+        "description": "Network Security"
+    },
+    {
+        "parameter": "port_443",
+        "framework": "CIS Network",
+        "control": "1.2",
+        "description": "Secure HTTPS"
+    },
+    {
+        "parameter": "firewall_logging",
+        "framework": "NIST 800-53",
+        "control": "AU-12",
+        "description": "Firewall Logging"
+    },
+    {
+        "parameter": "firewall_logging",
+        "framework": "ISO 27001",
+        "control": "A.8.15",
+        "description": "Logging"
+    },
+    {
+        "parameter": "firewall_logging",
+        "framework": "CIS Network",
+        "control": "2.1",
+        "description": "Firewall Logs"
+    },
+    {
+        "parameter": "defender_enabled",
+        "framework": "NIST 800-53",
+        "control": "SI-3",
+        "description": "Endpoint Protection"
+    },
+    {
+        "parameter": "defender_enabled",
+        "framework": "ISO 27001",
+        "control": "A.8.7",
+        "description": "Malware Protection"
+    },
+    {
+        "parameter": "defender_enabled",
+        "framework": "CIS Windows",
+        "control": "1.4",
+        "description": "Microsoft Defender"
+    },
+    {
+        "parameter": "kms_encryption",
+        "framework": "NIST 800-53",
+        "control": "SC-13",
+        "description": "Cryptographic Protection"
+    },
+    {
+        "parameter": "kms_encryption",
+        "framework": "ISO 27001",
+        "control": "A.8.24",
+        "description": "Use of Cryptography"
+    },
+    {
+        "parameter": "kms_encryption",
+        "framework": "CIS AWS",
+        "control": "3.8",
+        "description": "Encryption"
+    },
+    {
+        "parameter": "bucket_encryption",
+        "framework": "NIST 800-53",
+        "control": "SC-28",
+        "description": "Protection at Rest"
+    },
+    {
+        "parameter": "bucket_encryption",
+        "framework": "ISO 27001",
+        "control": "A.8.24",
+        "description": "Storage Encryption"
+    },
+    {
+        "parameter": "bucket_encryption",
+        "framework": "CIS AWS",
+        "control": "2.3",
+        "description": "Encrypt Storage"
+    },
+    {
+        "parameter": "instance_metadata_v2",
+        "framework": "NIST 800-53",
+        "control": "SI-7",
+        "description": "Software Integrity"
+    },
+    {
+        "parameter": "instance_metadata_v2",
+        "framework": "ISO 27001",
+        "control": "A.8.9",
+        "description": "Configuration"
+    },
+    {
+        "parameter": "instance_metadata_v2",
+        "framework": "CIS AWS",
+        "control": "4.2",
+        "description": "Require IMDSv2"
+    },
+    {
+        "parameter": "bitlocker",
+        "framework": "NIST 800-53",
+        "control": "SC-28",
+        "description": "Disk Encryption"
+    },
+    {
+        "parameter": "bitlocker",
+        "framework": "ISO 27001",
+        "control": "A.8.24",
+        "description": "BitLocker"
+    },
+    {
+        "parameter": "bitlocker",
+        "framework": "CIS Windows",
+        "control": "1.2",
+        "description": "Enable BitLocker"
+    },
+    {
+        "parameter": "multi_region_trail",
+        "framework": "NIST 800-53",
+        "control": "AU-12",
+        "description": "Audit Generation"
+    },
+    {
+        "parameter": "multi_region_trail",
+        "framework": "ISO 27001",
+        "control": "A.8.15",
+        "description": "Logging"
+    },
+    {
+        "parameter": "multi_region_trail",
+        "framework": "CIS AWS",
+        "control": "3.2",
+        "description": "Multi Region Logging"
+    },
+    {
+        "parameter": "threat_prevention",
+        "framework": "NIST 800-53",
+        "control": "SI-3",
+        "description": "Malicious Code Protection"
+    },
+    {
+        "parameter": "threat_prevention",
+        "framework": "ISO 27001",
+        "control": "A.8.7",
+        "description": "Threat Protection"
+    },
+    {
+        "parameter": "threat_prevention",
+        "framework": "CIS Network",
+        "control": "2.3",
+        "description": "Threat Prevention"
+    },
+    {
+        "parameter": "least_privilege",
+        "framework": "NIST 800-53",
+        "control": "AC-6",
+        "description": "Least Privilege"
+    },
+    {
+        "parameter": "least_privilege",
+        "framework": "ISO 27001",
+        "control": "A.5.15",
+        "description": "Access Control"
+    },
+    {
+        "parameter": "least_privilege",
+        "framework": "CIS IAM",
+        "control": "1.4",
+        "description": "Least Privilege"
+    },
+    {
+        "parameter": "auto_updates",
+        "framework": "NIST 800-53",
+        "control": "SI-2",
+        "description": "Patch Management"
+    },
+    {
+        "parameter": "auto_updates",
+        "framework": "ISO 27001",
+        "control": "A.8.8",
+        "description": "Patch Management"
+    },
+    {
+        "parameter": "auto_updates",
+        "framework": "CIS Windows",
+        "control": "1.5",
+        "description": "Automatic Updates"
+    },
+    {
+        "parameter": "auditd_enabled",
+        "framework": "NIST 800-53",
+        "control": "AU-2",
+        "description": "Linux Audit"
+    },
+    {
+        "parameter": "auditd_enabled",
+        "framework": "ISO 27001",
+        "control": "A.8.15",
+        "description": "Audit Logs"
+    },
+    {
+        "parameter": "auditd_enabled",
+        "framework": "CIS Linux",
+        "control": "1.1",
+        "description": "Auditd"
+    },
+    {
+        "parameter": "password_policy",
+        "framework": "NIST 800-53",
+        "control": "IA-5",
+        "description": "Password Policy"
+    },
+    {
+        "parameter": "password_policy",
+        "framework": "ISO 27001",
+        "control": "A.5.17",
+        "description": "Passwords"
+    },
+    {
+        "parameter": "password_policy",
+        "framework": "CIS IAM",
+        "control": "1.2",
+        "description": "Strong Passwords"
+    },
+    {
+        "parameter": "ssh_access",
+        "framework": "NIST 800-53",
+        "control": "AC-17",
+        "description": "Remote Access"
+    },
+    {
+        "parameter": "ssh_access",
+        "framework": "ISO 27001",
+        "control": "A.5.15",
+        "description": "Access Control"
+    },
+    {
+        "parameter": "ssh_access",
+        "framework": "CIS Network",
+        "control": "2.2",
+        "description": "Restrict SSH"
+    },
+    {
+        "parameter": "cloudtrail_enabled",
+        "framework": "NIST 800-53",
+        "control": "AU-2",
+        "description": "Audit Events"
+    },
+    {
+        "parameter": "cloudtrail_enabled",
+        "framework": "ISO 27001",
+        "control": "A.8.15",
+        "description": "Logging"
+    },
+    {
+        "parameter": "cloudtrail_enabled",
+        "framework": "CIS AWS",
+        "control": "3.1",
+        "description": "Enable CloudTrail"
+    },
+    {
+        "parameter": "ebs_encryption",
+        "framework": "NIST 800-53",
+        "control": "SC-28",
+        "description": "Protection at Rest"
+    },
+    {
+        "parameter": "ebs_encryption",
+        "framework": "ISO 27001",
+        "control": "A.8.24",
+        "description": "Disk Encryption"
+    },
+    {
+        "parameter": "ebs_encryption",
+        "framework": "CIS AWS",
+        "control": "4.4",
+        "description": "Encrypt EBS"
+    },
+    {
+        "parameter": "diagnostic_logging",
+        "framework": "NIST 800-53",
+        "control": "AU-12",
+        "description": "Audit Generation"
+    },
+    {
+        "parameter": "diagnostic_logging",
+        "framework": "ISO 27001",
+        "control": "A.8.15",
+        "description": "Diagnostic Logs"
+    },
+    {
+        "parameter": "diagnostic_logging",
+        "framework": "CIS Azure",
+        "control": "5.2",
+        "description": "Diagnostic Logging"
+    },
+    {
+        "parameter": "access_logging",
+        "framework": "NIST 800-53",
+        "control": "AU-12",
+        "description": "Audit Generation"
+    },
+    {
+        "parameter": "access_logging",
+        "framework": "ISO 27001",
+        "control": "A.8.15",
+        "description": "Logging"
+    },
+    {
+        "parameter": "access_logging",
+        "framework": "CIS AWS",
+        "control": "2.6",
+        "description": "Access Logging"
+    },
+    {
+        "parameter": "conditional_access",
+        "framework": "NIST 800-53",
+        "control": "AC-3",
+        "description": "Conditional Access"
+    },
+    {
+        "parameter": "conditional_access",
+        "framework": "ISO 27001",
+        "control": "A.5.15",
+        "description": "Access Control"
+    },
+    {
+        "parameter": "conditional_access",
+        "framework": "CIS IAM",
+        "control": "1.5",
+        "description": "Conditional Access"
+    },
+    {
+        "parameter": "retention_days",
+        "framework": "NIST 800-53",
+        "control": "AU-11",
+        "description": "Retention"
+    },
+    {
+        "parameter": "retention_days",
+        "framework": "ISO 27001",
+        "control": "A.8.10",
+        "description": "Retention"
+    },
+    {
+        "parameter": "retention_days",
+        "framework": "CIS Azure",
+        "control": "5.5",
+        "description": "Retention Policy"
+    },
+    {
+        "parameter": "public_access",
+        "framework": "NIST 800-53",
+        "control": "AC-3",
+        "description": "Access Enforcement"
+    },
+    {
+        "parameter": "public_access",
+        "framework": "ISO 27001",
+        "control": "A.5.15",
+        "description": "Access Control"
+    },
+    {
+        "parameter": "public_access",
+        "framework": "CIS AWS",
+        "control": "2.1",
+        "description": "Restrict Public Access"
+    },
+    {
+        "parameter": "selinux",
+        "framework": "NIST 800-53",
+        "control": "AC-6",
+        "description": "Least Privilege"
+    },
+    {
+        "parameter": "selinux",
+        "framework": "ISO 27001",
+        "control": "A.8.9",
+        "description": "Configuration"
+    },
+    {
+        "parameter": "selinux",
+        "framework": "CIS Linux",
+        "control": "1.2",
+        "description": "SELinux"
+    },
+    {
+        "parameter": "versioning",
+        "framework": "NIST 800-53",
+        "control": "CP-9",
+        "description": "Information Backup"
+    },
+    {
+        "parameter": "versioning",
+        "framework": "ISO 27001",
+        "control": "A.8.13",
+        "description": "Backup"
+    },
+    {
+        "parameter": "versioning",
+        "framework": "CIS AWS",
+        "control": "2.5",
+        "description": "Enable Versioning"
+    },
+    {
+        "parameter": "risk_policy",
+        "framework": "NIST 800-53",
+        "control": "RA-3",
+        "description": "Risk Assessment"
+    },
+    {
+        "parameter": "risk_policy",
+        "framework": "ISO 27001",
+        "control": "A.5.7",
+        "description": "Risk Management"
+    },
+    {
+        "parameter": "risk_policy",
+        "framework": "CIS IAM",
+        "control": "1.6",
+        "description": "Risk Policies"
+    },
+    {
+        "parameter": "logging_enabled",
+        "framework": "NIST 800-53",
+        "control": "AU-2",
+        "description": "Logging"
+    },
+    {
+        "parameter": "logging_enabled",
+        "framework": "ISO 27001",
+        "control": "A.8.15",
+        "description": "Logging"
+    },
+    {
+        "parameter": "logging_enabled",
+        "framework": "CIS Windows",
+        "control": "1.1",
+        "description": "Enable Logs"
+    },
+    {
+        "parameter": "port_8080",
+        "framework": "NIST 800-53",
+        "control": "SC-7",
+        "description": "Boundary Protection"
+    },
+    {
+        "parameter": "port_8080",
+        "framework": "ISO 27001",
+        "control": "A.8.20",
+        "description": "Network Security"
+    },
+    {
+        "parameter": "port_8080",
+        "framework": "CIS Network",
+        "control": "1.3",
+        "description": "Restrict Ports"
+    },
+    {
+        "parameter": "metrics_collection",
+        "framework": "NIST 800-53",
+        "control": "SI-4",
+        "description": "Monitoring"
+    },
+    {
+        "parameter": "metrics_collection",
+        "framework": "ISO 27001",
+        "control": "A.8.16",
+        "description": "Metrics"
+    },
+    {
+        "parameter": "metrics_collection",
+        "framework": "CIS Azure",
+        "control": "5.3",
+        "description": "Metrics Collection"
+    },
+    {
+        "parameter": "ufw_firewall",
+        "framework": "NIST 800-53",
+        "control": "SC-7",
+        "description": "Firewall"
+    },
+    {
+        "parameter": "ufw_firewall",
+        "framework": "ISO 27001",
+        "control": "A.8.20",
+        "description": "Firewall"
+    },
+    {
+        "parameter": "ufw_firewall",
+        "framework": "CIS Linux",
+        "control": "1.3",
+        "description": "UFW"
+    },
+    {
+        "parameter": "windows_firewall",
+        "framework": "NIST 800-53",
+        "control": "SC-7",
+        "description": "Firewall"
+    },
+    {
+        "parameter": "windows_firewall",
+        "framework": "ISO 27001",
+        "control": "A.8.20",
+        "description": "Firewall"
+    },
+    {
+        "parameter": "windows_firewall",
+        "framework": "CIS Windows",
+        "control": "1.3",
+        "description": "Windows Firewall"
+    },
+    {
+        "parameter": "monitoring_enabled",
+        "framework": "NIST 800-53",
+        "control": "SI-4",
+        "description": "System Monitoring"
+    },
+    {
+        "parameter": "monitoring_enabled",
+        "framework": "ISO 27001",
+        "control": "A.8.16",
+        "description": "Monitoring"
+    },
+    {
+        "parameter": "monitoring_enabled",
+        "framework": "CIS Azure",
+        "control": "5.1",
+        "description": "Enable Monitoring"
+    }
+]

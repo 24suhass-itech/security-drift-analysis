@@ -1,0 +1,7002 @@
+[
+    {
+        "event_id": "EVT-000394",
+        "prediction": "Normal",
+        "anomaly_score": 0.1016,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000152",
+        "prediction": "Normal",
+        "anomaly_score": 0.0249,
+        "anomaly_confidence": 0.25,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000588",
+        "prediction": "Normal",
+        "anomaly_score": 0.1168,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000669",
+        "prediction": "Normal",
+        "anomaly_score": 0.1172,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000131",
+        "prediction": "Normal",
+        "anomaly_score": 0.0532,
+        "anomaly_confidence": 0.53,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000169",
+        "prediction": "Normal",
+        "anomaly_score": 0.0595,
+        "anomaly_confidence": 0.6,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000813",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0912,
+        "anomaly_confidence": 0.91,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000417",
+        "prediction": "Normal",
+        "anomaly_score": 0.0713,
+        "anomaly_confidence": 0.71,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000071",
+        "prediction": "Normal",
+        "anomaly_score": 0.0508,
+        "anomaly_confidence": 0.51,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000968",
+        "prediction": "Normal",
+        "anomaly_score": 0.1173,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000748",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0091,
+        "anomaly_confidence": 0.09,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000033",
+        "prediction": "Normal",
+        "anomaly_score": 0.0149,
+        "anomaly_confidence": 0.15,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000354",
+        "prediction": "Normal",
+        "anomaly_score": 0.1627,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000230",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0056,
+        "anomaly_confidence": 0.06,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000619",
+        "prediction": "Normal",
+        "anomaly_score": 0.1373,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000762",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0815,
+        "anomaly_confidence": 0.81,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000064",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.001,
+        "anomaly_confidence": 0.01,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000399",
+        "prediction": "Normal",
+        "anomaly_score": 0.0957,
+        "anomaly_confidence": 0.96,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000753",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0793,
+        "anomaly_confidence": 0.79,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000683",
+        "prediction": "Normal",
+        "anomaly_score": 0.1344,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000591",
+        "prediction": "Normal",
+        "anomaly_score": 0.0713,
+        "anomaly_confidence": 0.71,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000467",
+        "prediction": "Normal",
+        "anomaly_score": 0.1103,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000510",
+        "prediction": "Normal",
+        "anomaly_score": 0.1563,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000279",
+        "prediction": "Normal",
+        "anomaly_score": 0.0594,
+        "anomaly_confidence": 0.59,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000681",
+        "prediction": "Normal",
+        "anomaly_score": 0.0904,
+        "anomaly_confidence": 0.9,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000345",
+        "prediction": "Normal",
+        "anomaly_score": 0.1238,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000116",
+        "prediction": "Normal",
+        "anomaly_score": 0.0444,
+        "anomaly_confidence": 0.44,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000255",
+        "prediction": "Normal",
+        "anomaly_score": 0.0356,
+        "anomaly_confidence": 0.36,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000477",
+        "prediction": "Normal",
+        "anomaly_score": 0.1001,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000965",
+        "prediction": "Normal",
+        "anomaly_score": 0.069,
+        "anomaly_confidence": 0.69,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000728",
+        "prediction": "Normal",
+        "anomaly_score": 0.0996,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000471",
+        "prediction": "Normal",
+        "anomaly_score": 0.1585,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000867",
+        "prediction": "Normal",
+        "anomaly_score": 0.1302,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000402",
+        "prediction": "Normal",
+        "anomaly_score": 0.1578,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000035",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.028,
+        "anomaly_confidence": 0.28,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000459",
+        "prediction": "Normal",
+        "anomaly_score": 0.1259,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000865",
+        "prediction": "Normal",
+        "anomaly_score": 0.1058,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000666",
+        "prediction": "Normal",
+        "anomaly_score": 0.1151,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000615",
+        "prediction": "Normal",
+        "anomaly_score": 0.1259,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000342",
+        "prediction": "Normal",
+        "anomaly_score": 0.0682,
+        "anomaly_confidence": 0.68,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000264",
+        "prediction": "Normal",
+        "anomaly_score": 0.0561,
+        "anomaly_confidence": 0.56,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000603",
+        "prediction": "Normal",
+        "anomaly_score": 0.1251,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000364",
+        "prediction": "Normal",
+        "anomaly_score": 0.1145,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000234",
+        "prediction": "Normal",
+        "anomaly_score": 0.0512,
+        "anomaly_confidence": 0.51,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000987",
+        "prediction": "Normal",
+        "anomaly_score": 0.0435,
+        "anomaly_confidence": 0.44,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000837",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0802,
+        "anomaly_confidence": 0.8,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000601",
+        "prediction": "Normal",
+        "anomaly_score": 0.1047,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000500",
+        "prediction": "Normal",
+        "anomaly_score": 0.1088,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000395",
+        "prediction": "Normal",
+        "anomaly_score": 0.1189,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000122",
+        "prediction": "Normal",
+        "anomaly_score": 0.0506,
+        "anomaly_confidence": 0.51,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000309",
+        "prediction": "Normal",
+        "anomaly_score": 0.0633,
+        "anomaly_confidence": 0.63,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000161",
+        "prediction": "Normal",
+        "anomaly_score": 0.0458,
+        "anomaly_confidence": 0.46,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000742",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0478,
+        "anomaly_confidence": 0.48,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000077",
+        "prediction": "Normal",
+        "anomaly_score": 0.065,
+        "anomaly_confidence": 0.65,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000210",
+        "prediction": "Normal",
+        "anomaly_score": 0.0338,
+        "anomaly_confidence": 0.34,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000324",
+        "prediction": "Normal",
+        "anomaly_score": 0.113,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000639",
+        "prediction": "Normal",
+        "anomaly_score": 0.0863,
+        "anomaly_confidence": 0.86,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000355",
+        "prediction": "Normal",
+        "anomaly_score": 0.129,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000356",
+        "prediction": "Normal",
+        "anomaly_score": 0.1128,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000281",
+        "prediction": "Normal",
+        "anomaly_score": 0.1359,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000625",
+        "prediction": "Normal",
+        "anomaly_score": 0.1502,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000227",
+        "prediction": "Normal",
+        "anomaly_score": 0.0423,
+        "anomaly_confidence": 0.42,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000016",
+        "prediction": "Normal",
+        "anomaly_score": 0.0147,
+        "anomaly_confidence": 0.15,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000905",
+        "prediction": "Normal",
+        "anomaly_score": 0.1194,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000878",
+        "prediction": "Normal",
+        "anomaly_score": 0.027,
+        "anomaly_confidence": 0.27,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000807",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0705,
+        "anomaly_confidence": 0.7,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000989",
+        "prediction": "Normal",
+        "anomaly_score": 0.0385,
+        "anomaly_confidence": 0.38,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000805",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0029,
+        "anomaly_confidence": 0.03,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000552",
+        "prediction": "Normal",
+        "anomaly_score": 0.1327,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000529",
+        "prediction": "Normal",
+        "anomaly_score": 0.0921,
+        "anomaly_confidence": 0.92,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000474",
+        "prediction": "Normal",
+        "anomaly_score": 0.0713,
+        "anomaly_confidence": 0.71,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000747",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0944,
+        "anomaly_confidence": 0.94,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000240",
+        "prediction": "Normal",
+        "anomaly_score": 0.0065,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000407",
+        "prediction": "Normal",
+        "anomaly_score": 0.1231,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000801",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0765,
+        "anomaly_confidence": 0.77,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000911",
+        "prediction": "Normal",
+        "anomaly_score": 0.1518,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000133",
+        "prediction": "Normal",
+        "anomaly_score": 0.0098,
+        "anomaly_confidence": 0.1,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000874",
+        "prediction": "Normal",
+        "anomaly_score": 0.0343,
+        "anomaly_confidence": 0.34,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000628",
+        "prediction": "Normal",
+        "anomaly_score": 0.1106,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000976",
+        "prediction": "Normal",
+        "anomaly_score": 0.1541,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000398",
+        "prediction": "Normal",
+        "anomaly_score": 0.0481,
+        "anomaly_confidence": 0.48,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000567",
+        "prediction": "Normal",
+        "anomaly_score": 0.079,
+        "anomaly_confidence": 0.79,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000216",
+        "prediction": "Normal",
+        "anomaly_score": 0.0509,
+        "anomaly_confidence": 0.51,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000343",
+        "prediction": "Normal",
+        "anomaly_score": 0.1326,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000397",
+        "prediction": "Normal",
+        "anomaly_score": 0.1125,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000923",
+        "prediction": "Normal",
+        "anomaly_score": 0.0285,
+        "anomaly_confidence": 0.29,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000657",
+        "prediction": "Normal",
+        "anomaly_score": 0.0864,
+        "anomaly_confidence": 0.86,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000003",
+        "prediction": "Normal",
+        "anomaly_score": 0.0069,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000435",
+        "prediction": "Normal",
+        "anomaly_score": 0.049,
+        "anomaly_confidence": 0.49,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000211",
+        "prediction": "Normal",
+        "anomaly_score": 0.0485,
+        "anomaly_confidence": 0.49,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000038",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.003,
+        "anomaly_confidence": 0.03,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000246",
+        "prediction": "Normal",
+        "anomaly_score": 0.0467,
+        "anomaly_confidence": 0.47,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000120",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0316,
+        "anomaly_confidence": 0.32,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000717",
+        "prediction": "Normal",
+        "anomaly_score": 0.1228,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-001000",
+        "prediction": "Normal",
+        "anomaly_score": 0.1012,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000137",
+        "prediction": "Normal",
+        "anomaly_score": 0.0098,
+        "anomaly_confidence": 0.1,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000146",
+        "prediction": "Normal",
+        "anomaly_score": 0.031,
+        "anomaly_confidence": 0.31,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000873",
+        "prediction": "Normal",
+        "anomaly_score": 0.0942,
+        "anomaly_confidence": 0.94,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000108",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0109,
+        "anomaly_confidence": 0.11,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000285",
+        "prediction": "Normal",
+        "anomaly_score": 0.0807,
+        "anomaly_confidence": 0.81,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000494",
+        "prediction": "Normal",
+        "anomaly_score": 0.1416,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000564",
+        "prediction": "Normal",
+        "anomaly_score": 0.0978,
+        "anomaly_confidence": 0.98,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000541",
+        "prediction": "Normal",
+        "anomaly_score": 0.1299,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000063",
+        "prediction": "Normal",
+        "anomaly_score": 0.0307,
+        "anomaly_confidence": 0.31,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000187",
+        "prediction": "Normal",
+        "anomaly_score": 0.0127,
+        "anomaly_confidence": 0.13,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000931",
+        "prediction": "Normal",
+        "anomaly_score": 0.106,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000614",
+        "prediction": "Normal",
+        "anomaly_score": 0.1559,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000672",
+        "prediction": "Normal",
+        "anomaly_score": 0.0794,
+        "anomaly_confidence": 0.79,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000509",
+        "prediction": "Normal",
+        "anomaly_score": 0.1061,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000740",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0269,
+        "anomaly_confidence": 0.27,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000508",
+        "prediction": "Normal",
+        "anomaly_score": 0.1229,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000112",
+        "prediction": "Normal",
+        "anomaly_score": 0.0503,
+        "anomaly_confidence": 0.5,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000590",
+        "prediction": "Normal",
+        "anomaly_score": 0.0891,
+        "anomaly_confidence": 0.89,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000673",
+        "prediction": "Normal",
+        "anomaly_score": 0.1224,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000468",
+        "prediction": "Normal",
+        "anomaly_score": 0.1416,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000604",
+        "prediction": "Normal",
+        "anomaly_score": 0.134,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000840",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0555,
+        "anomaly_confidence": 0.55,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000744",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0406,
+        "anomaly_confidence": 0.41,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000946",
+        "prediction": "Normal",
+        "anomaly_score": 0.1552,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000670",
+        "prediction": "Normal",
+        "anomaly_score": 0.127,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000548",
+        "prediction": "Normal",
+        "anomaly_score": 0.1355,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000760",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0708,
+        "anomaly_confidence": 0.71,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000889",
+        "prediction": "Normal",
+        "anomaly_score": 0.0508,
+        "anomaly_confidence": 0.51,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000423",
+        "prediction": "Normal",
+        "anomaly_score": 0.1404,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000782",
+        "prediction": "Normal",
+        "anomaly_score": 0.0148,
+        "anomaly_confidence": 0.15,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000783",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.065,
+        "anomaly_confidence": 0.65,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000267",
+        "prediction": "Normal",
+        "anomaly_score": 0.035,
+        "anomaly_confidence": 0.35,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000473",
+        "prediction": "Normal",
+        "anomaly_score": 0.1315,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000587",
+        "prediction": "Normal",
+        "anomaly_score": 0.1383,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000623",
+        "prediction": "Normal",
+        "anomaly_score": 0.089,
+        "anomaly_confidence": 0.89,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000636",
+        "prediction": "Normal",
+        "anomaly_score": 0.0835,
+        "anomaly_confidence": 0.83,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000713",
+        "prediction": "Normal",
+        "anomaly_score": 0.1093,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000079",
+        "prediction": "Normal",
+        "anomaly_score": 0.0256,
+        "anomaly_confidence": 0.26,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000237",
+        "prediction": "Normal",
+        "anomaly_score": 0.0466,
+        "anomaly_confidence": 0.47,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000098",
+        "prediction": "Normal",
+        "anomaly_score": 0.0115,
+        "anomaly_confidence": 0.12,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000455",
+        "prediction": "Normal",
+        "anomaly_score": 0.1441,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000461",
+        "prediction": "Normal",
+        "anomaly_score": 0.1402,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000772",
+        "prediction": "Normal",
+        "anomaly_score": 0.009,
+        "anomaly_confidence": 0.09,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000308",
+        "prediction": "Normal",
+        "anomaly_score": 0.0906,
+        "anomaly_confidence": 0.91,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000053",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0197,
+        "anomaly_confidence": 0.2,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000460",
+        "prediction": "Normal",
+        "anomaly_score": 0.0611,
+        "anomaly_confidence": 0.61,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000156",
+        "prediction": "Normal",
+        "anomaly_score": 0.0449,
+        "anomaly_confidence": 0.45,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000826",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0432,
+        "anomaly_confidence": 0.43,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000709",
+        "prediction": "Normal",
+        "anomaly_score": 0.1398,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000736",
+        "prediction": "Normal",
+        "anomaly_score": 0.0107,
+        "anomaly_confidence": 0.11,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000688",
+        "prediction": "Normal",
+        "anomaly_score": 0.0537,
+        "anomaly_confidence": 0.54,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000648",
+        "prediction": "Normal",
+        "anomaly_score": 0.1415,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000050",
+        "prediction": "Normal",
+        "anomaly_score": 0.0149,
+        "anomaly_confidence": 0.15,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000323",
+        "prediction": "Normal",
+        "anomaly_score": 0.1532,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000220",
+        "prediction": "Normal",
+        "anomaly_score": 0.055,
+        "anomaly_confidence": 0.55,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000140",
+        "prediction": "Normal",
+        "anomaly_score": 0.0298,
+        "anomaly_confidence": 0.3,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000046",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0134,
+        "anomaly_confidence": 0.13,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000620",
+        "prediction": "Normal",
+        "anomaly_score": 0.1345,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000352",
+        "prediction": "Normal",
+        "anomaly_score": 0.1306,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000763",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0776,
+        "anomaly_confidence": 0.78,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000836",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0389,
+        "anomaly_confidence": 0.39,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000194",
+        "prediction": "Normal",
+        "anomaly_score": 0.0327,
+        "anomaly_confidence": 0.33,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000594",
+        "prediction": "Normal",
+        "anomaly_score": 0.1452,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000565",
+        "prediction": "Normal",
+        "anomaly_score": 0.0695,
+        "anomaly_confidence": 0.69,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000088",
+        "prediction": "Normal",
+        "anomaly_score": 0.0109,
+        "anomaly_confidence": 0.11,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000290",
+        "prediction": "Normal",
+        "anomaly_score": 0.1511,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000195",
+        "prediction": "Normal",
+        "anomaly_score": 0.0413,
+        "anomaly_confidence": 0.41,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000379",
+        "prediction": "Normal",
+        "anomaly_score": 0.1277,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000538",
+        "prediction": "Normal",
+        "anomaly_score": 0.1577,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000768",
+        "prediction": "Normal",
+        "anomaly_score": 0.0294,
+        "anomaly_confidence": 0.29,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000512",
+        "prediction": "Normal",
+        "anomaly_score": 0.1472,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000085",
+        "prediction": "Normal",
+        "anomaly_score": 0.0221,
+        "anomaly_confidence": 0.22,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000175",
+        "prediction": "Normal",
+        "anomaly_score": 0.0314,
+        "anomaly_confidence": 0.31,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000415",
+        "prediction": "Normal",
+        "anomaly_score": 0.0538,
+        "anomaly_confidence": 0.54,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000288",
+        "prediction": "Normal",
+        "anomaly_score": 0.0839,
+        "anomaly_confidence": 0.84,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000616",
+        "prediction": "Normal",
+        "anomaly_score": 0.1243,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000466",
+        "prediction": "Normal",
+        "anomaly_score": 0.1387,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000821",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0007,
+        "anomaly_confidence": 0.01,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000180",
+        "prediction": "Normal",
+        "anomaly_score": 0.0219,
+        "anomaly_confidence": 0.22,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000094",
+        "prediction": "Normal",
+        "anomaly_score": 0.0482,
+        "anomaly_confidence": 0.48,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000244",
+        "prediction": "Normal",
+        "anomaly_score": 0.0273,
+        "anomaly_confidence": 0.27,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000037",
+        "prediction": "Normal",
+        "anomaly_score": 0.0321,
+        "anomaly_confidence": 0.32,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000645",
+        "prediction": "Normal",
+        "anomaly_score": 0.0896,
+        "anomaly_confidence": 0.9,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000433",
+        "prediction": "Normal",
+        "anomaly_score": 0.1069,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000553",
+        "prediction": "Normal",
+        "anomaly_score": 0.1214,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000585",
+        "prediction": "Normal",
+        "anomaly_score": 0.1062,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000426",
+        "prediction": "Normal",
+        "anomaly_score": 0.1545,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000334",
+        "prediction": "Normal",
+        "anomaly_score": 0.1186,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000533",
+        "prediction": "Normal",
+        "anomaly_score": 0.1126,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000341",
+        "prediction": "Normal",
+        "anomaly_score": 0.1274,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000340",
+        "prediction": "Normal",
+        "anomaly_score": 0.122,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000975",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0007,
+        "anomaly_confidence": 0.01,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000143",
+        "prediction": "Normal",
+        "anomaly_score": 0.0318,
+        "anomaly_confidence": 0.32,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000042",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0049,
+        "anomaly_confidence": 0.05,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000862",
+        "prediction": "Normal",
+        "anomaly_score": 0.0465,
+        "anomaly_confidence": 0.47,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000329",
+        "prediction": "Normal",
+        "anomaly_score": 0.1391,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000484",
+        "prediction": "Normal",
+        "anomaly_score": 0.1049,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000002",
+        "prediction": "Normal",
+        "anomaly_score": 0.0019,
+        "anomaly_confidence": 0.02,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000674",
+        "prediction": "Normal",
+        "anomaly_score": 0.0937,
+        "anomaly_confidence": 0.94,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000977",
+        "prediction": "Normal",
+        "anomaly_score": 0.0335,
+        "anomaly_confidence": 0.34,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000418",
+        "prediction": "Normal",
+        "anomaly_score": 0.1585,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000312",
+        "prediction": "Normal",
+        "anomaly_score": 0.1303,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000853",
+        "prediction": "Normal",
+        "anomaly_score": 0.0368,
+        "anomaly_confidence": 0.37,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000990",
+        "prediction": "Normal",
+        "anomaly_score": 0.0059,
+        "anomaly_confidence": 0.06,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000916",
+        "prediction": "Normal",
+        "anomaly_score": 0.0562,
+        "anomaly_confidence": 0.56,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000749",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.025,
+        "anomaly_confidence": 0.25,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000414",
+        "prediction": "Normal",
+        "anomaly_score": 0.1245,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000103",
+        "prediction": "Normal",
+        "anomaly_score": 0.0495,
+        "anomaly_confidence": 0.5,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000039",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0078,
+        "anomaly_confidence": 0.08,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000270",
+        "prediction": "Normal",
+        "anomaly_score": 0.0203,
+        "anomaly_confidence": 0.2,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000536",
+        "prediction": "Normal",
+        "anomaly_score": 0.1212,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000224",
+        "prediction": "Normal",
+        "anomaly_score": 0.032,
+        "anomaly_confidence": 0.32,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000518",
+        "prediction": "Normal",
+        "anomaly_score": 0.1499,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000659",
+        "prediction": "Normal",
+        "anomaly_score": 0.1433,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000213",
+        "prediction": "Normal",
+        "anomaly_score": 0.0242,
+        "anomaly_confidence": 0.24,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000463",
+        "prediction": "Normal",
+        "anomaly_score": 0.0798,
+        "anomaly_confidence": 0.8,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000100",
+        "prediction": "Normal",
+        "anomaly_score": 0.0397,
+        "anomaly_confidence": 0.4,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000983",
+        "prediction": "Normal",
+        "anomaly_score": 0.0838,
+        "anomaly_confidence": 0.84,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000070",
+        "prediction": "Normal",
+        "anomaly_score": 0.0295,
+        "anomaly_confidence": 0.3,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000232",
+        "prediction": "Normal",
+        "anomaly_score": 0.0297,
+        "anomaly_confidence": 0.3,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000238",
+        "prediction": "Normal",
+        "anomaly_score": 0.0381,
+        "anomaly_confidence": 0.38,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000956",
+        "prediction": "Normal",
+        "anomaly_score": 0.0523,
+        "anomaly_confidence": 0.52,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000689",
+        "prediction": "Normal",
+        "anomaly_score": 0.1308,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000735",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0726,
+        "anomaly_confidence": 0.73,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000266",
+        "prediction": "Normal",
+        "anomaly_score": 0.0406,
+        "anomaly_confidence": 0.41,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000838",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0781,
+        "anomaly_confidence": 0.78,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000284",
+        "prediction": "Normal",
+        "anomaly_score": 0.0705,
+        "anomaly_confidence": 0.71,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000699",
+        "prediction": "Normal",
+        "anomaly_score": 0.0864,
+        "anomaly_confidence": 0.86,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000007",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0394,
+        "anomaly_confidence": 0.39,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000969",
+        "prediction": "Normal",
+        "anomaly_score": 0.1472,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000084",
+        "prediction": "Normal",
+        "anomaly_score": 0.031,
+        "anomaly_confidence": 0.31,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000703",
+        "prediction": "Normal",
+        "anomaly_score": 0.096,
+        "anomaly_confidence": 0.96,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000918",
+        "prediction": "Normal",
+        "anomaly_score": 0.0902,
+        "anomaly_confidence": 0.9,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000722",
+        "prediction": "Normal",
+        "anomaly_score": 0.1087,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000269",
+        "prediction": "Normal",
+        "anomaly_score": 0.0299,
+        "anomaly_confidence": 0.3,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000999",
+        "prediction": "Normal",
+        "anomaly_score": 0.0069,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000182",
+        "prediction": "Normal",
+        "anomaly_score": 0.0532,
+        "anomaly_confidence": 0.53,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000054",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0123,
+        "anomaly_confidence": 0.12,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000011",
+        "prediction": "Normal",
+        "anomaly_score": 0.0452,
+        "anomaly_confidence": 0.45,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000148",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0133,
+        "anomaly_confidence": 0.13,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000855",
+        "prediction": "Normal",
+        "anomaly_score": 0.0364,
+        "anomaly_confidence": 0.36,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000320",
+        "prediction": "Normal",
+        "anomaly_score": 0.1088,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000787",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0773,
+        "anomaly_confidence": 0.77,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000351",
+        "prediction": "Normal",
+        "anomaly_score": 0.1191,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000055",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0085,
+        "anomaly_confidence": 0.09,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000584",
+        "prediction": "Normal",
+        "anomaly_score": 0.1141,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000841",
+        "prediction": "Normal",
+        "anomaly_score": 0.0192,
+        "anomaly_confidence": 0.19,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000171",
+        "prediction": "Normal",
+        "anomaly_score": 0.0403,
+        "anomaly_confidence": 0.4,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000204",
+        "prediction": "Normal",
+        "anomaly_score": 0.0399,
+        "anomaly_confidence": 0.4,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000652",
+        "prediction": "Normal",
+        "anomaly_score": 0.1433,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000794",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0401,
+        "anomaly_confidence": 0.4,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000106",
+        "prediction": "Normal",
+        "anomaly_score": 0.0131,
+        "anomaly_confidence": 0.13,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000622",
+        "prediction": "Normal",
+        "anomaly_score": 0.1446,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000635",
+        "prediction": "Normal",
+        "anomaly_score": 0.1108,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000922",
+        "prediction": "Normal",
+        "anomaly_score": 0.0191,
+        "anomaly_confidence": 0.19,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000788",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0573,
+        "anomaly_confidence": 0.57,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000679",
+        "prediction": "Normal",
+        "anomaly_score": 0.114,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000302",
+        "prediction": "Normal",
+        "anomaly_score": 0.1446,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000491",
+        "prediction": "Normal",
+        "anomaly_score": 0.1302,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000543",
+        "prediction": "Normal",
+        "anomaly_score": 0.0832,
+        "anomaly_confidence": 0.83,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000572",
+        "prediction": "Normal",
+        "anomaly_score": 0.0628,
+        "anomaly_confidence": 0.63,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000492",
+        "prediction": "Normal",
+        "anomaly_score": 0.1064,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000957",
+        "prediction": "Normal",
+        "anomaly_score": 0.0883,
+        "anomaly_confidence": 0.88,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000589",
+        "prediction": "Normal",
+        "anomaly_score": 0.1315,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000757",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0284,
+        "anomaly_confidence": 0.28,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000004",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0135,
+        "anomaly_confidence": 0.13,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000733",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0779,
+        "anomaly_confidence": 0.78,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000005",
+        "prediction": "Normal",
+        "anomaly_score": 0.0193,
+        "anomaly_confidence": 0.19,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000480",
+        "prediction": "Normal",
+        "anomaly_score": 0.1383,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000192",
+        "prediction": "Normal",
+        "anomaly_score": 0.0469,
+        "anomaly_confidence": 0.47,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000700",
+        "prediction": "Normal",
+        "anomaly_score": 0.0534,
+        "anomaly_confidence": 0.53,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000316",
+        "prediction": "Normal",
+        "anomaly_score": 0.1386,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000225",
+        "prediction": "Normal",
+        "anomaly_score": 0.0562,
+        "anomaly_confidence": 0.56,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000496",
+        "prediction": "Normal",
+        "anomaly_score": 0.1107,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000214",
+        "prediction": "Normal",
+        "anomaly_score": 0.0196,
+        "anomaly_confidence": 0.2,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000314",
+        "prediction": "Normal",
+        "anomaly_score": 0.1532,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000996",
+        "prediction": "Normal",
+        "anomaly_score": 0.1213,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000294",
+        "prediction": "Normal",
+        "anomaly_score": 0.1286,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000724",
+        "prediction": "Normal",
+        "anomaly_score": 0.1306,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000637",
+        "prediction": "Normal",
+        "anomaly_score": 0.1404,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000348",
+        "prediction": "Normal",
+        "anomaly_score": 0.1493,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000410",
+        "prediction": "Normal",
+        "anomaly_score": 0.1309,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000012",
+        "prediction": "Normal",
+        "anomaly_score": 0.0295,
+        "anomaly_confidence": 0.3,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000872",
+        "prediction": "Normal",
+        "anomaly_score": 0.0024,
+        "anomaly_confidence": 0.02,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000595",
+        "prediction": "Normal",
+        "anomaly_score": 0.1375,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000739",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0682,
+        "anomaly_confidence": 0.68,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000754",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0771,
+        "anomaly_confidence": 0.77,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000413",
+        "prediction": "Normal",
+        "anomaly_score": 0.1249,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000416",
+        "prediction": "Normal",
+        "anomaly_score": 0.125,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000954",
+        "prediction": "Normal",
+        "anomaly_score": 0.094,
+        "anomaly_confidence": 0.94,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000796",
+        "prediction": "Normal",
+        "anomaly_score": 0.0391,
+        "anomaly_confidence": 0.39,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000504",
+        "prediction": "Normal",
+        "anomaly_score": 0.1219,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000720",
+        "prediction": "Normal",
+        "anomaly_score": 0.1187,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000082",
+        "prediction": "Normal",
+        "anomaly_score": 0.004,
+        "anomaly_confidence": 0.04,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000559",
+        "prediction": "Normal",
+        "anomaly_score": 0.1137,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000370",
+        "prediction": "Normal",
+        "anomaly_score": 0.0897,
+        "anomaly_confidence": 0.9,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000045",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0223,
+        "anomaly_confidence": 0.22,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000935",
+        "prediction": "Normal",
+        "anomaly_score": 0.1064,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000516",
+        "prediction": "Normal",
+        "anomaly_score": 0.0952,
+        "anomaly_confidence": 0.95,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000128",
+        "prediction": "Normal",
+        "anomaly_score": 0.0702,
+        "anomaly_confidence": 0.7,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000147",
+        "prediction": "Normal",
+        "anomaly_score": 0.0665,
+        "anomaly_confidence": 0.67,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000661",
+        "prediction": "Normal",
+        "anomaly_score": 0.0881,
+        "anomaly_confidence": 0.88,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000745",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0889,
+        "anomaly_confidence": 0.89,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000452",
+        "prediction": "Normal",
+        "anomaly_score": 0.1403,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000376",
+        "prediction": "Normal",
+        "anomaly_score": 0.1634,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000409",
+        "prediction": "Normal",
+        "anomaly_score": 0.1356,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000880",
+        "prediction": "Normal",
+        "anomaly_score": 0.0025,
+        "anomaly_confidence": 0.03,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000656",
+        "prediction": "Normal",
+        "anomaly_score": 0.1578,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000018",
+        "prediction": "Normal",
+        "anomaly_score": 0.001,
+        "anomaly_confidence": 0.01,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000432",
+        "prediction": "Normal",
+        "anomaly_score": 0.1598,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000123",
+        "prediction": "Normal",
+        "anomaly_score": 0.0408,
+        "anomaly_confidence": 0.41,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000141",
+        "prediction": "Normal",
+        "anomaly_score": 0.0172,
+        "anomaly_confidence": 0.17,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000992",
+        "prediction": "Normal",
+        "anomaly_score": 0.0347,
+        "anomaly_confidence": 0.35,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000109",
+        "prediction": "Normal",
+        "anomaly_score": 0.0471,
+        "anomaly_confidence": 0.47,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000921",
+        "prediction": "Normal",
+        "anomaly_score": 0.0417,
+        "anomaly_confidence": 0.42,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000573",
+        "prediction": "Normal",
+        "anomaly_score": 0.0928,
+        "anomaly_confidence": 0.93,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000640",
+        "prediction": "Normal",
+        "anomaly_score": 0.139,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000102",
+        "prediction": "Normal",
+        "anomaly_score": 0.0181,
+        "anomaly_confidence": 0.18,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000520",
+        "prediction": "Normal",
+        "anomaly_score": 0.129,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000843",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0053,
+        "anomaly_confidence": 0.05,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000914",
+        "prediction": "Normal",
+        "anomaly_score": 0.0253,
+        "anomaly_confidence": 0.25,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000707",
+        "prediction": "Normal",
+        "anomaly_score": 0.1042,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000243",
+        "prediction": "Normal",
+        "anomaly_score": 0.0321,
+        "anomaly_confidence": 0.32,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000933",
+        "prediction": "Normal",
+        "anomaly_score": 0.0867,
+        "anomaly_confidence": 0.87,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000462",
+        "prediction": "Normal",
+        "anomaly_score": 0.1364,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000771",
+        "prediction": "Normal",
+        "anomaly_score": 0.0086,
+        "anomaly_confidence": 0.09,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000434",
+        "prediction": "Normal",
+        "anomaly_score": 0.1339,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000229",
+        "prediction": "Normal",
+        "anomaly_score": 0.0398,
+        "anomaly_confidence": 0.4,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000303",
+        "prediction": "Normal",
+        "anomaly_score": 0.12,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000814",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0905,
+        "anomaly_confidence": 0.9,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000074",
+        "prediction": "Normal",
+        "anomaly_score": 0.0007,
+        "anomaly_confidence": 0.01,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000852",
+        "prediction": "Normal",
+        "anomaly_score": 0.0386,
+        "anomaly_confidence": 0.39,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000203",
+        "prediction": "Normal",
+        "anomaly_score": 0.0392,
+        "anomaly_confidence": 0.39,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000253",
+        "prediction": "Normal",
+        "anomaly_score": 0.0253,
+        "anomaly_confidence": 0.25,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000526",
+        "prediction": "Normal",
+        "anomaly_score": 0.0904,
+        "anomaly_confidence": 0.9,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000884",
+        "prediction": "Normal",
+        "anomaly_score": 0.0567,
+        "anomaly_confidence": 0.57,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000049",
+        "prediction": "Normal",
+        "anomaly_score": 0.0266,
+        "anomaly_confidence": 0.27,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000729",
+        "prediction": "Normal",
+        "anomaly_score": 0.1149,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000278",
+        "prediction": "Normal",
+        "anomaly_score": 0.0072,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000693",
+        "prediction": "Normal",
+        "anomaly_score": 0.1528,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000114",
+        "prediction": "Normal",
+        "anomaly_score": 0.0017,
+        "anomaly_confidence": 0.02,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000021",
+        "prediction": "Normal",
+        "anomaly_score": 0.0399,
+        "anomaly_confidence": 0.4,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000980",
+        "prediction": "Normal",
+        "anomaly_score": 0.0928,
+        "anomaly_confidence": 0.93,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000476",
+        "prediction": "Normal",
+        "anomaly_score": 0.1458,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000770",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.069,
+        "anomaly_confidence": 0.69,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000096",
+        "prediction": "Normal",
+        "anomaly_score": 0.0551,
+        "anomaly_confidence": 0.55,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000810",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0071,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000750",
+        "prediction": "Normal",
+        "anomaly_score": 0.0091,
+        "anomaly_confidence": 0.09,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000606",
+        "prediction": "Normal",
+        "anomaly_score": 0.1036,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000059",
+        "prediction": "Normal",
+        "anomaly_score": 0.0319,
+        "anomaly_confidence": 0.32,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000892",
+        "prediction": "Normal",
+        "anomaly_score": 0.0966,
+        "anomaly_confidence": 0.97,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000642",
+        "prediction": "Normal",
+        "anomaly_score": 0.1118,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000176",
+        "prediction": "Normal",
+        "anomaly_score": 0.0444,
+        "anomaly_confidence": 0.44,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000610",
+        "prediction": "Normal",
+        "anomaly_score": 0.0904,
+        "anomaly_confidence": 0.9,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000800",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0749,
+        "anomaly_confidence": 0.75,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000031",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0196,
+        "anomaly_confidence": 0.2,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000062",
+        "prediction": "Normal",
+        "anomaly_score": 0.0181,
+        "anomaly_confidence": 0.18,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000858",
+        "prediction": "Normal",
+        "anomaly_score": 0.0301,
+        "anomaly_confidence": 0.3,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000177",
+        "prediction": "Normal",
+        "anomaly_score": 0.0578,
+        "anomaly_confidence": 0.58,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000089",
+        "prediction": "Normal",
+        "anomaly_score": 0.0375,
+        "anomaly_confidence": 0.37,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000993",
+        "prediction": "Normal",
+        "anomaly_score": 0.0619,
+        "anomaly_confidence": 0.62,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000752",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0362,
+        "anomaly_confidence": 0.36,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000419",
+        "prediction": "Normal",
+        "anomaly_score": 0.1302,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000080",
+        "prediction": "Normal",
+        "anomaly_score": 0.0293,
+        "anomaly_confidence": 0.29,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000078",
+        "prediction": "Normal",
+        "anomaly_score": 0.0605,
+        "anomaly_confidence": 0.61,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000068",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0109,
+        "anomaly_confidence": 0.11,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000217",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0065,
+        "anomaly_confidence": 0.06,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000275",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0131,
+        "anomaly_confidence": 0.13,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000861",
+        "prediction": "Normal",
+        "anomaly_score": 0.0048,
+        "anomaly_confidence": 0.05,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000162",
+        "prediction": "Normal",
+        "anomaly_score": 0.0507,
+        "anomaly_confidence": 0.51,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000721",
+        "prediction": "Normal",
+        "anomaly_score": 0.1601,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000570",
+        "prediction": "Normal",
+        "anomaly_score": 0.1497,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000047",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0093,
+        "anomaly_confidence": 0.09,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000181",
+        "prediction": "Normal",
+        "anomaly_score": 0.018,
+        "anomaly_confidence": 0.18,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000160",
+        "prediction": "Normal",
+        "anomaly_score": 0.0226,
+        "anomaly_confidence": 0.23,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000901",
+        "prediction": "Normal",
+        "anomaly_score": 0.0983,
+        "anomaly_confidence": 0.98,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000815",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0316,
+        "anomaly_confidence": 0.32,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000373",
+        "prediction": "Normal",
+        "anomaly_score": 0.1302,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000400",
+        "prediction": "Normal",
+        "anomaly_score": 0.134,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000655",
+        "prediction": "Normal",
+        "anomaly_score": 0.1236,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000097",
+        "prediction": "Normal",
+        "anomaly_score": 0.0113,
+        "anomaly_confidence": 0.11,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000482",
+        "prediction": "Normal",
+        "anomaly_score": 0.1499,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000385",
+        "prediction": "Normal",
+        "anomaly_score": 0.077,
+        "anomaly_confidence": 0.77,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000481",
+        "prediction": "Normal",
+        "anomaly_score": 0.1141,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000864",
+        "prediction": "Normal",
+        "anomaly_score": 0.1088,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000299",
+        "prediction": "Normal",
+        "anomaly_score": 0.1379,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000694",
+        "prediction": "Normal",
+        "anomaly_score": 0.139,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000605",
+        "prediction": "Normal",
+        "anomaly_score": 0.0864,
+        "anomaly_confidence": 0.86,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000834",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0632,
+        "anomaly_confidence": 0.63,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000949",
+        "prediction": "Normal",
+        "anomaly_score": 0.0556,
+        "anomaly_confidence": 0.56,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000528",
+        "prediction": "Normal",
+        "anomaly_score": 0.0936,
+        "anomaly_confidence": 0.94,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000248",
+        "prediction": "Normal",
+        "anomaly_score": 0.0358,
+        "anomaly_confidence": 0.36,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000950",
+        "prediction": "Normal",
+        "anomaly_score": 0.0092,
+        "anomaly_confidence": 0.09,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000249",
+        "prediction": "Normal",
+        "anomaly_score": 0.042,
+        "anomaly_confidence": 0.42,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000306",
+        "prediction": "Normal",
+        "anomaly_score": 0.1115,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000519",
+        "prediction": "Normal",
+        "anomaly_score": 0.1477,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000172",
+        "prediction": "Normal",
+        "anomaly_score": 0.0254,
+        "anomaly_confidence": 0.25,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000023",
+        "prediction": "Normal",
+        "anomaly_score": 0.0287,
+        "anomaly_confidence": 0.29,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000076",
+        "prediction": "Normal",
+        "anomaly_score": 0.0363,
+        "anomaly_confidence": 0.36,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000593",
+        "prediction": "Normal",
+        "anomaly_score": 0.1634,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000268",
+        "prediction": "Normal",
+        "anomaly_score": 0.0256,
+        "anomaly_confidence": 0.26,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000617",
+        "prediction": "Normal",
+        "anomaly_score": 0.1299,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000150",
+        "prediction": "Normal",
+        "anomaly_score": 0.0624,
+        "anomaly_confidence": 0.62,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000665",
+        "prediction": "Normal",
+        "anomaly_score": 0.1124,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000764",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0871,
+        "anomaly_confidence": 0.87,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000349",
+        "prediction": "Normal",
+        "anomaly_score": 0.0912,
+        "anomaly_confidence": 0.91,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000825",
+        "prediction": "Normal",
+        "anomaly_score": 0.0311,
+        "anomaly_confidence": 0.31,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000928",
+        "prediction": "Normal",
+        "anomaly_score": 0.0404,
+        "anomaly_confidence": 0.4,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000913",
+        "prediction": "Normal",
+        "anomaly_score": 0.0407,
+        "anomaly_confidence": 0.41,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000712",
+        "prediction": "Normal",
+        "anomaly_score": 0.1538,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000024",
+        "prediction": "Normal",
+        "anomaly_score": 0.0295,
+        "anomaly_confidence": 0.29,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000539",
+        "prediction": "Normal",
+        "anomaly_score": 0.1582,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000822",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0481,
+        "anomaly_confidence": 0.48,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000453",
+        "prediction": "Normal",
+        "anomaly_score": 0.1411,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000036",
+        "prediction": "Normal",
+        "anomaly_score": 0.0407,
+        "anomaly_confidence": 0.41,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000755",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0568,
+        "anomaly_confidence": 0.57,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000010",
+        "prediction": "Normal",
+        "anomaly_score": 0.0114,
+        "anomaly_confidence": 0.11,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000586",
+        "prediction": "Normal",
+        "anomaly_score": 0.1365,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000785",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0551,
+        "anomaly_confidence": 0.55,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000833",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0408,
+        "anomaly_confidence": 0.41,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000900",
+        "prediction": "Normal",
+        "anomaly_score": 0.1414,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000061",
+        "prediction": "Normal",
+        "anomaly_score": 0.035,
+        "anomaly_confidence": 0.35,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000104",
+        "prediction": "Normal",
+        "anomaly_score": 0.0051,
+        "anomaly_confidence": 0.05,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000283",
+        "prediction": "Normal",
+        "anomaly_score": 0.1443,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000804",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.035,
+        "anomaly_confidence": 0.35,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000048",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.011,
+        "anomaly_confidence": 0.11,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000478",
+        "prediction": "Normal",
+        "anomaly_score": 0.0835,
+        "anomaly_confidence": 0.83,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000101",
+        "prediction": "Normal",
+        "anomaly_score": 0.0474,
+        "anomaly_confidence": 0.47,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000651",
+        "prediction": "Normal",
+        "anomaly_score": 0.1179,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000183",
+        "prediction": "Normal",
+        "anomaly_score": 0.0552,
+        "anomaly_confidence": 0.55,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000382",
+        "prediction": "Normal",
+        "anomaly_score": 0.1521,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000503",
+        "prediction": "Normal",
+        "anomaly_score": 0.1422,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000904",
+        "prediction": "Normal",
+        "anomaly_score": 0.0836,
+        "anomaly_confidence": 0.84,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000365",
+        "prediction": "Normal",
+        "anomaly_score": 0.1201,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000723",
+        "prediction": "Normal",
+        "anomaly_score": 0.1232,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000580",
+        "prediction": "Normal",
+        "anomaly_score": 0.1503,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000960",
+        "prediction": "Normal",
+        "anomaly_score": 0.0521,
+        "anomaly_confidence": 0.52,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000189",
+        "prediction": "Normal",
+        "anomaly_score": 0.0232,
+        "anomaly_confidence": 0.23,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000947",
+        "prediction": "Normal",
+        "anomaly_score": 0.0883,
+        "anomaly_confidence": 0.88,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000371",
+        "prediction": "Normal",
+        "anomaly_score": 0.0802,
+        "anomaly_confidence": 0.8,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000638",
+        "prediction": "Normal",
+        "anomaly_score": 0.0883,
+        "anomaly_confidence": 0.88,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000647",
+        "prediction": "Normal",
+        "anomaly_score": 0.0653,
+        "anomaly_confidence": 0.65,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000563",
+        "prediction": "Normal",
+        "anomaly_score": 0.1392,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000358",
+        "prediction": "Normal",
+        "anomaly_score": 0.1402,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000554",
+        "prediction": "Normal",
+        "anomaly_score": 0.129,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000731",
+        "prediction": "Normal",
+        "anomaly_score": 0.02,
+        "anomaly_confidence": 0.2,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000065",
+        "prediction": "Normal",
+        "anomaly_score": 0.0366,
+        "anomaly_confidence": 0.37,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000671",
+        "prediction": "Normal",
+        "anomaly_score": 0.0999,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000072",
+        "prediction": "Normal",
+        "anomaly_score": 0.0259,
+        "anomaly_confidence": 0.26,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000886",
+        "prediction": "Normal",
+        "anomaly_score": 0.0001,
+        "anomaly_confidence": 0.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000428",
+        "prediction": "Normal",
+        "anomaly_score": 0.0264,
+        "anomaly_confidence": 0.26,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000206",
+        "prediction": "Normal",
+        "anomaly_score": 0.0135,
+        "anomaly_confidence": 0.14,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000711",
+        "prediction": "Normal",
+        "anomaly_score": 0.1378,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000522",
+        "prediction": "Normal",
+        "anomaly_score": 0.0949,
+        "anomaly_confidence": 0.95,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000680",
+        "prediction": "Normal",
+        "anomaly_score": 0.1373,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000828",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0197,
+        "anomaly_confidence": 0.2,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000970",
+        "prediction": "Normal",
+        "anomaly_score": 0.054,
+        "anomaly_confidence": 0.54,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000219",
+        "prediction": "Normal",
+        "anomaly_score": 0.0483,
+        "anomaly_confidence": 0.48,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000081",
+        "prediction": "Normal",
+        "anomaly_score": 0.0397,
+        "anomaly_confidence": 0.4,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000842",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0725,
+        "anomaly_confidence": 0.72,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000318",
+        "prediction": "Normal",
+        "anomaly_score": 0.1662,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000412",
+        "prediction": "Normal",
+        "anomaly_score": 0.1003,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000797",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0838,
+        "anomaly_confidence": 0.84,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000386",
+        "prediction": "Normal",
+        "anomaly_score": 0.1036,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000142",
+        "prediction": "Normal",
+        "anomaly_score": 0.0306,
+        "anomaly_confidence": 0.31,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000075",
+        "prediction": "Normal",
+        "anomaly_score": 0.0067,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000276",
+        "prediction": "Normal",
+        "anomaly_score": 0.0079,
+        "anomaly_confidence": 0.08,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000393",
+        "prediction": "Normal",
+        "anomaly_score": 0.0958,
+        "anomaly_confidence": 0.96,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000291",
+        "prediction": "Normal",
+        "anomaly_score": 0.0848,
+        "anomaly_confidence": 0.85,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000939",
+        "prediction": "Normal",
+        "anomaly_score": 0.0532,
+        "anomaly_confidence": 0.53,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000105",
+        "prediction": "Normal",
+        "anomaly_score": 0.0305,
+        "anomaly_confidence": 0.3,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000919",
+        "prediction": "Normal",
+        "anomaly_score": 0.1208,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000296",
+        "prediction": "Normal",
+        "anomaly_score": 0.1231,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000304",
+        "prediction": "Normal",
+        "anomaly_score": 0.1221,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000307",
+        "prediction": "Normal",
+        "anomaly_score": 0.1157,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000026",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0048,
+        "anomaly_confidence": 0.05,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000067",
+        "prediction": "Normal",
+        "anomaly_score": 0.0216,
+        "anomaly_confidence": 0.22,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000300",
+        "prediction": "Normal",
+        "anomaly_score": 0.1143,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000350",
+        "prediction": "Normal",
+        "anomaly_score": 0.1051,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000612",
+        "prediction": "Normal",
+        "anomaly_score": 0.1191,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000727",
+        "prediction": "Normal",
+        "anomaly_score": 0.107,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000715",
+        "prediction": "Normal",
+        "anomaly_score": 0.1049,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000357",
+        "prediction": "Normal",
+        "anomaly_score": 0.0934,
+        "anomaly_confidence": 0.93,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000598",
+        "prediction": "Normal",
+        "anomaly_score": 0.1113,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000597",
+        "prediction": "Normal",
+        "anomaly_score": 0.1578,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000321",
+        "prediction": "Normal",
+        "anomaly_score": 0.1091,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000163",
+        "prediction": "Normal",
+        "anomaly_score": 0.0108,
+        "anomaly_confidence": 0.11,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000854",
+        "prediction": "Normal",
+        "anomaly_score": 0.124,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000626",
+        "prediction": "Normal",
+        "anomaly_score": 0.1161,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000178",
+        "prediction": "Normal",
+        "anomaly_score": 0.058,
+        "anomaly_confidence": 0.58,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000186",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0023,
+        "anomaly_confidence": 0.02,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000568",
+        "prediction": "Normal",
+        "anomaly_score": 0.1179,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000973",
+        "prediction": "Normal",
+        "anomaly_score": 0.0204,
+        "anomaly_confidence": 0.2,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000857",
+        "prediction": "Normal",
+        "anomaly_score": 0.071,
+        "anomaly_confidence": 0.71,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000650",
+        "prediction": "Normal",
+        "anomaly_score": 0.1198,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000009",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0157,
+        "anomaly_confidence": 0.16,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000245",
+        "prediction": "Normal",
+        "anomaly_score": 0.0011,
+        "anomaly_confidence": 0.01,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000257",
+        "prediction": "Normal",
+        "anomaly_score": 0.0429,
+        "anomaly_confidence": 0.43,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000896",
+        "prediction": "Normal",
+        "anomaly_score": 0.0312,
+        "anomaly_confidence": 0.31,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000624",
+        "prediction": "Normal",
+        "anomaly_score": 0.1541,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000437",
+        "prediction": "Normal",
+        "anomaly_score": 0.1296,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000537",
+        "prediction": "Normal",
+        "anomaly_score": 0.0948,
+        "anomaly_confidence": 0.95,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000803",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0597,
+        "anomaly_confidence": 0.6,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000998",
+        "prediction": "Normal",
+        "anomaly_score": 0.021,
+        "anomaly_confidence": 0.21,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000135",
+        "prediction": "Normal",
+        "anomaly_score": 0.0363,
+        "anomaly_confidence": 0.36,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000408",
+        "prediction": "Normal",
+        "anomaly_score": 0.1296,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000289",
+        "prediction": "Normal",
+        "anomaly_score": 0.1261,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000887",
+        "prediction": "Normal",
+        "anomaly_score": 0.0629,
+        "anomaly_confidence": 0.63,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000483",
+        "prediction": "Normal",
+        "anomaly_score": 0.1003,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000881",
+        "prediction": "Normal",
+        "anomaly_score": 0.1281,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000698",
+        "prediction": "Normal",
+        "anomaly_score": 0.111,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000313",
+        "prediction": "Normal",
+        "anomaly_score": 0.0756,
+        "anomaly_confidence": 0.76,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000436",
+        "prediction": "Normal",
+        "anomaly_score": 0.0937,
+        "anomaly_confidence": 0.94,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000859",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0205,
+        "anomaly_confidence": 0.21,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000716",
+        "prediction": "Normal",
+        "anomaly_score": 0.111,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000404",
+        "prediction": "Normal",
+        "anomaly_score": 0.1292,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000830",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0252,
+        "anomaly_confidence": 0.25,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000869",
+        "prediction": "Normal",
+        "anomaly_score": 0.0092,
+        "anomaly_confidence": 0.09,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000363",
+        "prediction": "Normal",
+        "anomaly_score": 0.1047,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000941",
+        "prediction": "Normal",
+        "anomaly_score": 0.1189,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000383",
+        "prediction": "Normal",
+        "anomaly_score": 0.1311,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000883",
+        "prediction": "Normal",
+        "anomaly_score": 0.1239,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000205",
+        "prediction": "Normal",
+        "anomaly_score": 0.0664,
+        "anomaly_confidence": 0.66,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000569",
+        "prediction": "Normal",
+        "anomaly_score": 0.1455,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000311",
+        "prediction": "Normal",
+        "anomaly_score": 0.1061,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000506",
+        "prediction": "Normal",
+        "anomaly_score": 0.0535,
+        "anomaly_confidence": 0.53,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000040",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0035,
+        "anomaly_confidence": 0.04,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000507",
+        "prediction": "Normal",
+        "anomaly_score": 0.1286,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000057",
+        "prediction": "Normal",
+        "anomaly_score": 0.0192,
+        "anomaly_confidence": 0.19,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000044",
+        "prediction": "Normal",
+        "anomaly_score": 0.0309,
+        "anomaly_confidence": 0.31,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000252",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0083,
+        "anomaly_confidence": 0.08,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000888",
+        "prediction": "Normal",
+        "anomaly_score": 0.0304,
+        "anomaly_confidence": 0.3,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000658",
+        "prediction": "Normal",
+        "anomaly_score": 0.1341,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000513",
+        "prediction": "Normal",
+        "anomaly_score": 0.1212,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000613",
+        "prediction": "Normal",
+        "anomaly_score": 0.1662,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000431",
+        "prediction": "Normal",
+        "anomaly_score": 0.1327,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000151",
+        "prediction": "Normal",
+        "anomaly_score": 0.0017,
+        "anomaly_confidence": 0.02,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000212",
+        "prediction": "Normal",
+        "anomaly_score": 0.0042,
+        "anomaly_confidence": 0.04,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000259",
+        "prediction": "Normal",
+        "anomaly_score": 0.0131,
+        "anomaly_confidence": 0.13,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000488",
+        "prediction": "Normal",
+        "anomaly_score": 0.1296,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000022",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0329,
+        "anomaly_confidence": 0.33,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000367",
+        "prediction": "Normal",
+        "anomaly_score": 0.1465,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000487",
+        "prediction": "Normal",
+        "anomaly_score": 0.1186,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000696",
+        "prediction": "Normal",
+        "anomaly_score": 0.0771,
+        "anomaly_confidence": 0.77,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000966",
+        "prediction": "Normal",
+        "anomaly_score": 0.0168,
+        "anomaly_confidence": 0.17,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000903",
+        "prediction": "Normal",
+        "anomaly_score": 0.0712,
+        "anomaly_confidence": 0.71,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000908",
+        "prediction": "Normal",
+        "anomaly_score": 0.0107,
+        "anomaly_confidence": 0.11,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000247",
+        "prediction": "Normal",
+        "anomaly_score": 0.0066,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000083",
+        "prediction": "Normal",
+        "anomaly_score": 0.0274,
+        "anomaly_confidence": 0.27,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000374",
+        "prediction": "Normal",
+        "anomaly_score": 0.1165,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000013",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0103,
+        "anomaly_confidence": 0.1,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000773",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.057,
+        "anomaly_confidence": 0.57,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000032",
+        "prediction": "Normal",
+        "anomaly_score": 0.0212,
+        "anomaly_confidence": 0.21,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000134",
+        "prediction": "Normal",
+        "anomaly_score": 0.0197,
+        "anomaly_confidence": 0.2,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000127",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0028,
+        "anomaly_confidence": 0.03,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000868",
+        "prediction": "Normal",
+        "anomaly_score": 0.1359,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000119",
+        "prediction": "Normal",
+        "anomaly_score": 0.0119,
+        "anomaly_confidence": 0.12,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000360",
+        "prediction": "Normal",
+        "anomaly_score": 0.0866,
+        "anomaly_confidence": 0.87,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000406",
+        "prediction": "Normal",
+        "anomaly_score": 0.0577,
+        "anomaly_confidence": 0.58,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000692",
+        "prediction": "Normal",
+        "anomaly_score": 0.1169,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000271",
+        "prediction": "Normal",
+        "anomaly_score": 0.0254,
+        "anomaly_confidence": 0.25,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000305",
+        "prediction": "Normal",
+        "anomaly_score": 0.1386,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000199",
+        "prediction": "Normal",
+        "anomaly_score": 0.0517,
+        "anomaly_confidence": 0.52,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000020",
+        "prediction": "Normal",
+        "anomaly_score": 0.0417,
+        "anomaly_confidence": 0.42,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000758",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0293,
+        "anomaly_confidence": 0.29,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000988",
+        "prediction": "Normal",
+        "anomaly_score": 0.0715,
+        "anomaly_confidence": 0.71,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000228",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.019,
+        "anomaly_confidence": 0.19,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000008",
+        "prediction": "Normal",
+        "anomaly_score": 0.0194,
+        "anomaly_confidence": 0.19,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000725",
+        "prediction": "Normal",
+        "anomaly_score": 0.125,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000154",
+        "prediction": "Normal",
+        "anomaly_score": 0.0435,
+        "anomaly_confidence": 0.43,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000521",
+        "prediction": "Normal",
+        "anomaly_score": 0.062,
+        "anomaly_confidence": 0.62,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000682",
+        "prediction": "Normal",
+        "anomaly_score": 0.1184,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000746",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0327,
+        "anomaly_confidence": 0.33,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000202",
+        "prediction": "Normal",
+        "anomaly_score": 0.079,
+        "anomaly_confidence": 0.79,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000274",
+        "prediction": "Normal",
+        "anomaly_score": 0.0743,
+        "anomaly_confidence": 0.74,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000448",
+        "prediction": "Normal",
+        "anomaly_score": 0.1373,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000347",
+        "prediction": "Normal",
+        "anomaly_score": 0.1075,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000907",
+        "prediction": "Normal",
+        "anomaly_score": 0.0802,
+        "anomaly_confidence": 0.8,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000789",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0065,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000099",
+        "prediction": "Normal",
+        "anomaly_score": 0.0115,
+        "anomaly_confidence": 0.12,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000653",
+        "prediction": "Normal",
+        "anomaly_score": 0.1115,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000917",
+        "prediction": "Normal",
+        "anomaly_score": 0.0706,
+        "anomaly_confidence": 0.71,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000535",
+        "prediction": "Normal",
+        "anomaly_score": 0.1274,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000560",
+        "prediction": "Normal",
+        "anomaly_score": 0.1327,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000634",
+        "prediction": "Normal",
+        "anomaly_score": 0.1079,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000551",
+        "prediction": "Normal",
+        "anomaly_score": 0.0957,
+        "anomaly_confidence": 0.96,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000948",
+        "prediction": "Normal",
+        "anomaly_score": 0.0472,
+        "anomaly_confidence": 0.47,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000953",
+        "prediction": "Normal",
+        "anomaly_score": 0.0882,
+        "anomaly_confidence": 0.88,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000317",
+        "prediction": "Normal",
+        "anomaly_score": 0.134,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000335",
+        "prediction": "Normal",
+        "anomaly_score": 0.1258,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000093",
+        "prediction": "Normal",
+        "anomaly_score": 0.0397,
+        "anomaly_confidence": 0.4,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000668",
+        "prediction": "Normal",
+        "anomaly_score": 0.0764,
+        "anomaly_confidence": 0.76,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000392",
+        "prediction": "Normal",
+        "anomaly_score": 0.0881,
+        "anomaly_confidence": 0.88,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000876",
+        "prediction": "Normal",
+        "anomaly_score": 0.0573,
+        "anomaly_confidence": 0.57,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000641",
+        "prediction": "Normal",
+        "anomaly_score": 0.1443,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000646",
+        "prediction": "Normal",
+        "anomaly_score": 0.0429,
+        "anomaly_confidence": 0.43,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000555",
+        "prediction": "Normal",
+        "anomaly_score": 0.1661,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000164",
+        "prediction": "Normal",
+        "anomaly_score": 0.0719,
+        "anomaly_confidence": 0.72,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000396",
+        "prediction": "Normal",
+        "anomaly_score": 0.1384,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000272",
+        "prediction": "Normal",
+        "anomaly_score": 0.0389,
+        "anomaly_confidence": 0.39,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000629",
+        "prediction": "Normal",
+        "anomaly_score": 0.1537,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000945",
+        "prediction": "Normal",
+        "anomaly_score": 0.1267,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000705",
+        "prediction": "Normal",
+        "anomaly_score": 0.1115,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000820",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.065,
+        "anomaly_confidence": 0.65,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000958",
+        "prediction": "Normal",
+        "anomaly_score": 0.0776,
+        "anomaly_confidence": 0.78,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000333",
+        "prediction": "Normal",
+        "anomaly_score": 0.1091,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000315",
+        "prediction": "Normal",
+        "anomaly_score": 0.1272,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000784",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0379,
+        "anomaly_confidence": 0.38,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000910",
+        "prediction": "Normal",
+        "anomaly_score": 0.1208,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000942",
+        "prediction": "Normal",
+        "anomaly_score": 0.1026,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000155",
+        "prediction": "Normal",
+        "anomaly_score": 0.0217,
+        "anomaly_confidence": 0.22,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000330",
+        "prediction": "Normal",
+        "anomaly_score": 0.1009,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000596",
+        "prediction": "Normal",
+        "anomaly_score": 0.1545,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000207",
+        "prediction": "Normal",
+        "anomaly_score": 0.0451,
+        "anomaly_confidence": 0.45,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000895",
+        "prediction": "Normal",
+        "anomaly_score": 0.0364,
+        "anomaly_confidence": 0.36,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000759",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0467,
+        "anomaly_confidence": 0.47,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000381",
+        "prediction": "Normal",
+        "anomaly_score": 0.1087,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000457",
+        "prediction": "Normal",
+        "anomaly_score": 0.1317,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000125",
+        "prediction": "Normal",
+        "anomaly_score": 0.051,
+        "anomaly_confidence": 0.51,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000644",
+        "prediction": "Normal",
+        "anomaly_score": 0.1418,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000145",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0177,
+        "anomaly_confidence": 0.18,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000583",
+        "prediction": "Normal",
+        "anomaly_score": 0.1526,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000092",
+        "prediction": "Normal",
+        "anomaly_score": 0.0241,
+        "anomaly_confidence": 0.24,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000974",
+        "prediction": "Normal",
+        "anomaly_score": 0.1487,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000261",
+        "prediction": "Normal",
+        "anomaly_score": 0.0248,
+        "anomaly_confidence": 0.25,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000817",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0201,
+        "anomaly_confidence": 0.2,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000582",
+        "prediction": "Normal",
+        "anomaly_score": 0.1314,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000179",
+        "prediction": "Normal",
+        "anomaly_score": 0.0438,
+        "anomaly_confidence": 0.44,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000028",
+        "prediction": "Normal",
+        "anomaly_score": 0.0176,
+        "anomaly_confidence": 0.18,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000663",
+        "prediction": "Normal",
+        "anomaly_score": 0.051,
+        "anomaly_confidence": 0.51,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000006",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0177,
+        "anomaly_confidence": 0.18,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000298",
+        "prediction": "Normal",
+        "anomaly_score": 0.1545,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000618",
+        "prediction": "Normal",
+        "anomaly_score": 0.0896,
+        "anomaly_confidence": 0.9,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000490",
+        "prediction": "Normal",
+        "anomaly_score": 0.1012,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000056",
+        "prediction": "Normal",
+        "anomaly_score": 0.007,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000029",
+        "prediction": "Normal",
+        "anomaly_score": 0.038,
+        "anomaly_confidence": 0.38,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000943",
+        "prediction": "Normal",
+        "anomaly_score": 0.0262,
+        "anomaly_confidence": 0.26,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000556",
+        "prediction": "Normal",
+        "anomaly_score": 0.0735,
+        "anomaly_confidence": 0.73,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000532",
+        "prediction": "Normal",
+        "anomaly_score": 0.075,
+        "anomaly_confidence": 0.75,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000200",
+        "prediction": "Normal",
+        "anomaly_score": 0.024,
+        "anomaly_confidence": 0.24,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000832",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0838,
+        "anomaly_confidence": 0.84,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000691",
+        "prediction": "Normal",
+        "anomaly_score": 0.1194,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000863",
+        "prediction": "Normal",
+        "anomaly_score": 0.1271,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000198",
+        "prediction": "Normal",
+        "anomaly_score": 0.0481,
+        "anomaly_confidence": 0.48,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000517",
+        "prediction": "Normal",
+        "anomaly_score": 0.0764,
+        "anomaly_confidence": 0.76,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000344",
+        "prediction": "Normal",
+        "anomaly_score": 0.1168,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000899",
+        "prediction": "Normal",
+        "anomaly_score": 0.0674,
+        "anomaly_confidence": 0.67,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000741",
+        "prediction": "Normal",
+        "anomaly_score": 0.0135,
+        "anomaly_confidence": 0.14,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000719",
+        "prediction": "Normal",
+        "anomaly_score": 0.1174,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000427",
+        "prediction": "Normal",
+        "anomaly_score": 0.1441,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000571",
+        "prediction": "Normal",
+        "anomaly_score": 0.1168,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000464",
+        "prediction": "Normal",
+        "anomaly_score": 0.1215,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000498",
+        "prediction": "Normal",
+        "anomaly_score": 0.0995,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000019",
+        "prediction": "Normal",
+        "anomaly_score": 0.0076,
+        "anomaly_confidence": 0.08,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000282",
+        "prediction": "Normal",
+        "anomaly_score": 0.1089,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000860",
+        "prediction": "Normal",
+        "anomaly_score": 0.0348,
+        "anomaly_confidence": 0.35,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000579",
+        "prediction": "Normal",
+        "anomaly_score": 0.1118,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000827",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.041,
+        "anomaly_confidence": 0.41,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000445",
+        "prediction": "Normal",
+        "anomaly_score": 0.1062,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000372",
+        "prediction": "Normal",
+        "anomaly_score": 0.1496,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000818",
+        "prediction": "Normal",
+        "anomaly_score": 0.0279,
+        "anomaly_confidence": 0.28,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000328",
+        "prediction": "Normal",
+        "anomaly_score": 0.1087,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000170",
+        "prediction": "Normal",
+        "anomaly_score": 0.0308,
+        "anomaly_confidence": 0.31,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000964",
+        "prediction": "Normal",
+        "anomaly_score": 0.1048,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000780",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0088,
+        "anomaly_confidence": 0.09,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000380",
+        "prediction": "Normal",
+        "anomaly_score": 0.1311,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000025",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0205,
+        "anomaly_confidence": 0.21,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000844",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.03,
+        "anomaly_confidence": 0.3,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000558",
+        "prediction": "Normal",
+        "anomaly_score": 0.1226,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000231",
+        "prediction": "Normal",
+        "anomaly_score": 0.0317,
+        "anomaly_confidence": 0.32,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000798",
+        "prediction": "Normal",
+        "anomaly_score": 0.011,
+        "anomaly_confidence": 0.11,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000286",
+        "prediction": "Normal",
+        "anomaly_score": 0.152,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000816",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0274,
+        "anomaly_confidence": 0.27,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000934",
+        "prediction": "Normal",
+        "anomaly_score": 0.0517,
+        "anomaly_confidence": 0.52,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000327",
+        "prediction": "Normal",
+        "anomaly_score": 0.1088,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000273",
+        "prediction": "Normal",
+        "anomaly_score": 0.0196,
+        "anomaly_confidence": 0.2,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000258",
+        "prediction": "Normal",
+        "anomaly_score": 0.0386,
+        "anomaly_confidence": 0.39,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000944",
+        "prediction": "Normal",
+        "anomaly_score": 0.0759,
+        "anomaly_confidence": 0.76,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000885",
+        "prediction": "Normal",
+        "anomaly_score": 0.0621,
+        "anomaly_confidence": 0.62,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000422",
+        "prediction": "Normal",
+        "anomaly_score": 0.1316,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000362",
+        "prediction": "Normal",
+        "anomaly_score": 0.0981,
+        "anomaly_confidence": 0.98,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000501",
+        "prediction": "Normal",
+        "anomaly_score": 0.0906,
+        "anomaly_confidence": 0.91,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000485",
+        "prediction": "Normal",
+        "anomaly_score": 0.1366,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000441",
+        "prediction": "Normal",
+        "anomaly_score": 0.1256,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000631",
+        "prediction": "Normal",
+        "anomaly_score": 0.1106,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000875",
+        "prediction": "Normal",
+        "anomaly_score": 0.0531,
+        "anomaly_confidence": 0.53,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000359",
+        "prediction": "Normal",
+        "anomaly_score": 0.1302,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000391",
+        "prediction": "Normal",
+        "anomaly_score": 0.1432,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000932",
+        "prediction": "Normal",
+        "anomaly_score": 0.0497,
+        "anomaly_confidence": 0.5,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000121",
+        "prediction": "Normal",
+        "anomaly_score": 0.0015,
+        "anomaly_confidence": 0.01,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000523",
+        "prediction": "Normal",
+        "anomaly_score": 0.0803,
+        "anomaly_confidence": 0.8,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000235",
+        "prediction": "Normal",
+        "anomaly_score": 0.0718,
+        "anomaly_confidence": 0.72,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000292",
+        "prediction": "Normal",
+        "anomaly_score": 0.136,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000839",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.075,
+        "anomaly_confidence": 0.75,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000761",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0174,
+        "anomaly_confidence": 0.17,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000069",
+        "prediction": "Normal",
+        "anomaly_score": 0.0262,
+        "anomaly_confidence": 0.26,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000898",
+        "prediction": "Normal",
+        "anomaly_score": 0.1029,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000926",
+        "prediction": "Normal",
+        "anomaly_score": 0.1314,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000856",
+        "prediction": "Normal",
+        "anomaly_score": 0.0377,
+        "anomaly_confidence": 0.38,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000643",
+        "prediction": "Normal",
+        "anomaly_score": 0.113,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000806",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.046,
+        "anomaly_confidence": 0.46,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000630",
+        "prediction": "Normal",
+        "anomaly_score": 0.1215,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000790",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0887,
+        "anomaly_confidence": 0.89,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000215",
+        "prediction": "Normal",
+        "anomaly_score": 0.04,
+        "anomaly_confidence": 0.4,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000608",
+        "prediction": "Normal",
+        "anomaly_score": 0.154,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000470",
+        "prediction": "Normal",
+        "anomaly_score": 0.124,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000153",
+        "prediction": "Normal",
+        "anomaly_score": 0.0474,
+        "anomaly_confidence": 0.47,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000557",
+        "prediction": "Normal",
+        "anomaly_score": 0.1149,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000912",
+        "prediction": "Normal",
+        "anomaly_score": 0.0092,
+        "anomaly_confidence": 0.09,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000110",
+        "prediction": "Normal",
+        "anomaly_score": 0.0172,
+        "anomaly_confidence": 0.17,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000475",
+        "prediction": "Normal",
+        "anomaly_score": 0.1071,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000891",
+        "prediction": "Normal",
+        "anomaly_score": 0.0828,
+        "anomaly_confidence": 0.83,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000982",
+        "prediction": "Normal",
+        "anomaly_score": 0.0312,
+        "anomaly_confidence": 0.31,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000870",
+        "prediction": "Normal",
+        "anomaly_score": 0.0552,
+        "anomaly_confidence": 0.55,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000566",
+        "prediction": "Normal",
+        "anomaly_score": 0.1137,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000937",
+        "prediction": "Normal",
+        "anomaly_score": 0.05,
+        "anomaly_confidence": 0.5,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000458",
+        "prediction": "Normal",
+        "anomaly_score": 0.1438,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000882",
+        "prediction": "Normal",
+        "anomaly_score": 0.1091,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000058",
+        "prediction": "Normal",
+        "anomaly_score": 0.0337,
+        "anomaly_confidence": 0.34,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000906",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0139,
+        "anomaly_confidence": 0.14,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000174",
+        "prediction": "Normal",
+        "anomaly_score": 0.017,
+        "anomaly_confidence": 0.17,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000534",
+        "prediction": "Normal",
+        "anomaly_score": 0.152,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000577",
+        "prediction": "Normal",
+        "anomaly_score": 0.107,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000087",
+        "prediction": "Normal",
+        "anomaly_score": 0.0046,
+        "anomaly_confidence": 0.05,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000293",
+        "prediction": "Normal",
+        "anomaly_score": 0.1066,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000262",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.007,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000144",
+        "prediction": "Normal",
+        "anomaly_score": 0.0304,
+        "anomaly_confidence": 0.3,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000781",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.069,
+        "anomaly_confidence": 0.69,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000191",
+        "prediction": "Normal",
+        "anomaly_score": 0.03,
+        "anomaly_confidence": 0.3,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000849",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0191,
+        "anomaly_confidence": 0.19,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000685",
+        "prediction": "Normal",
+        "anomaly_score": 0.1295,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000938",
+        "prediction": "Normal",
+        "anomaly_score": 0.0493,
+        "anomaly_confidence": 0.49,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000188",
+        "prediction": "Normal",
+        "anomaly_score": 0.0467,
+        "anomaly_confidence": 0.47,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000158",
+        "prediction": "Normal",
+        "anomaly_score": 0.044,
+        "anomaly_confidence": 0.44,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000472",
+        "prediction": "Normal",
+        "anomaly_score": 0.1208,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000930",
+        "prediction": "Normal",
+        "anomaly_score": 0.0313,
+        "anomaly_confidence": 0.31,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000319",
+        "prediction": "Normal",
+        "anomaly_score": 0.0577,
+        "anomaly_confidence": 0.58,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000936",
+        "prediction": "Normal",
+        "anomaly_score": 0.1528,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000502",
+        "prediction": "Normal",
+        "anomaly_score": 0.0978,
+        "anomaly_confidence": 0.98,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000139",
+        "prediction": "Normal",
+        "anomaly_score": 0.0571,
+        "anomaly_confidence": 0.57,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000193",
+        "prediction": "Normal",
+        "anomaly_score": 0.0159,
+        "anomaly_confidence": 0.16,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000221",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0117,
+        "anomaly_confidence": 0.12,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000793",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0819,
+        "anomaly_confidence": 0.82,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000809",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0209,
+        "anomaly_confidence": 0.21,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000575",
+        "prediction": "Normal",
+        "anomaly_score": 0.1108,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000718",
+        "prediction": "Normal",
+        "anomaly_score": 0.1055,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000366",
+        "prediction": "Normal",
+        "anomaly_score": 0.0922,
+        "anomaly_confidence": 0.92,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000812",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0675,
+        "anomaly_confidence": 0.68,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000846",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0546,
+        "anomaly_confidence": 0.55,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000767",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0624,
+        "anomaly_confidence": 0.62,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000233",
+        "prediction": "Normal",
+        "anomaly_score": 0.0715,
+        "anomaly_confidence": 0.72,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000430",
+        "prediction": "Normal",
+        "anomaly_score": 0.1316,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000295",
+        "prediction": "Normal",
+        "anomaly_score": 0.0754,
+        "anomaly_confidence": 0.75,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000442",
+        "prediction": "Normal",
+        "anomaly_score": 0.1115,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000611",
+        "prediction": "Normal",
+        "anomaly_score": 0.1137,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000530",
+        "prediction": "Normal",
+        "anomaly_score": 0.1597,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000443",
+        "prediction": "Normal",
+        "anomaly_score": 0.1493,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000979",
+        "prediction": "Normal",
+        "anomaly_score": 0.0644,
+        "anomaly_confidence": 0.64,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000377",
+        "prediction": "Normal",
+        "anomaly_score": 0.0845,
+        "anomaly_confidence": 0.84,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000401",
+        "prediction": "Normal",
+        "anomaly_score": 0.1113,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000967",
+        "prediction": "Normal",
+        "anomaly_score": 0.0847,
+        "anomaly_confidence": 0.85,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000915",
+        "prediction": "Normal",
+        "anomaly_score": 0.0872,
+        "anomaly_confidence": 0.87,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000574",
+        "prediction": "Normal",
+        "anomaly_score": 0.0699,
+        "anomaly_confidence": 0.7,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000697",
+        "prediction": "Normal",
+        "anomaly_score": 0.0804,
+        "anomaly_confidence": 0.8,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000450",
+        "prediction": "Normal",
+        "anomaly_score": 0.1131,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000124",
+        "prediction": "Normal",
+        "anomaly_score": 0.027,
+        "anomaly_confidence": 0.27,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000678",
+        "prediction": "Normal",
+        "anomaly_score": 0.1426,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000493",
+        "prediction": "Normal",
+        "anomaly_score": 0.1214,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000909",
+        "prediction": "Normal",
+        "anomaly_score": 0.1529,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000060",
+        "prediction": "Normal",
+        "anomaly_score": 0.035,
+        "anomaly_confidence": 0.35,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000353",
+        "prediction": "Normal",
+        "anomaly_score": 0.0716,
+        "anomaly_confidence": 0.72,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000405",
+        "prediction": "Normal",
+        "anomaly_score": 0.1182,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000851",
+        "prediction": "Normal",
+        "anomaly_score": 0.1292,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000505",
+        "prediction": "Normal",
+        "anomaly_score": 0.1266,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000951",
+        "prediction": "Normal",
+        "anomaly_score": 0.0402,
+        "anomaly_confidence": 0.4,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000338",
+        "prediction": "Normal",
+        "anomaly_score": 0.0995,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000168",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.007,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000336",
+        "prediction": "Normal",
+        "anomaly_score": 0.1511,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000695",
+        "prediction": "Normal",
+        "anomaly_score": 0.1034,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000126",
+        "prediction": "Normal",
+        "anomaly_score": 0.0158,
+        "anomaly_confidence": 0.16,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000929",
+        "prediction": "Normal",
+        "anomaly_score": 0.1269,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000325",
+        "prediction": "Normal",
+        "anomaly_score": 0.1163,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000808",
+        "prediction": "Normal",
+        "anomaly_score": 0.003,
+        "anomaly_confidence": 0.03,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000778",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0791,
+        "anomaly_confidence": 0.79,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000073",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0156,
+        "anomaly_confidence": 0.16,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000167",
+        "prediction": "Normal",
+        "anomaly_score": 0.0526,
+        "anomaly_confidence": 0.53,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000242",
+        "prediction": "Normal",
+        "anomaly_score": 0.0231,
+        "anomaly_confidence": 0.23,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000236",
+        "prediction": "Normal",
+        "anomaly_score": 0.0434,
+        "anomaly_confidence": 0.43,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000961",
+        "prediction": "Normal",
+        "anomaly_score": 0.1062,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000660",
+        "prediction": "Normal",
+        "anomaly_score": 0.1014,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000756",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0448,
+        "anomaly_confidence": 0.45,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000389",
+        "prediction": "Normal",
+        "anomaly_score": 0.1301,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000361",
+        "prediction": "Normal",
+        "anomaly_score": 0.1133,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000444",
+        "prediction": "Normal",
+        "anomaly_score": 0.1523,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000208",
+        "prediction": "Normal",
+        "anomaly_score": 0.0532,
+        "anomaly_confidence": 0.53,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000847",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0949,
+        "anomaly_confidence": 0.95,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000339",
+        "prediction": "Normal",
+        "anomaly_score": 0.0709,
+        "anomaly_confidence": 0.71,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000777",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0549,
+        "anomaly_confidence": 0.55,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000972",
+        "prediction": "Normal",
+        "anomaly_score": 0.0421,
+        "anomaly_confidence": 0.42,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000310",
+        "prediction": "Normal",
+        "anomaly_score": 0.1365,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000218",
+        "prediction": "Normal",
+        "anomaly_score": 0.0331,
+        "anomaly_confidence": 0.33,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000599",
+        "prediction": "Normal",
+        "anomaly_score": 0.1273,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000737",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0787,
+        "anomaly_confidence": 0.79,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000765",
+        "prediction": "Normal",
+        "anomaly_score": 0.0138,
+        "anomaly_confidence": 0.14,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000662",
+        "prediction": "Normal",
+        "anomaly_score": 0.0815,
+        "anomaly_confidence": 0.82,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000706",
+        "prediction": "Normal",
+        "anomaly_score": 0.1037,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000997",
+        "prediction": "Normal",
+        "anomaly_score": 0.0408,
+        "anomaly_confidence": 0.41,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000368",
+        "prediction": "Normal",
+        "anomaly_score": 0.1192,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000531",
+        "prediction": "Normal",
+        "anomaly_score": 0.0563,
+        "anomaly_confidence": 0.56,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000831",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0406,
+        "anomaly_confidence": 0.41,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000775",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0736,
+        "anomaly_confidence": 0.74,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000544",
+        "prediction": "Normal",
+        "anomaly_score": 0.1315,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000823",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0695,
+        "anomaly_confidence": 0.7,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000686",
+        "prediction": "Normal",
+        "anomaly_score": 0.1327,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000676",
+        "prediction": "Normal",
+        "anomaly_score": 0.1299,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000835",
+        "prediction": "Normal",
+        "anomaly_score": 0.0306,
+        "anomaly_confidence": 0.31,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000978",
+        "prediction": "Normal",
+        "anomaly_score": 0.0631,
+        "anomaly_confidence": 0.63,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000991",
+        "prediction": "Normal",
+        "anomaly_score": 0.0528,
+        "anomaly_confidence": 0.53,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000486",
+        "prediction": "Normal",
+        "anomaly_score": 0.0454,
+        "anomaly_confidence": 0.45,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000786",
+        "prediction": "Normal",
+        "anomaly_score": 0.0423,
+        "anomaly_confidence": 0.42,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000743",
+        "prediction": "Normal",
+        "anomaly_score": 0.0281,
+        "anomaly_confidence": 0.28,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000201",
+        "prediction": "Normal",
+        "anomaly_score": 0.0134,
+        "anomaly_confidence": 0.13,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000792",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.033,
+        "anomaly_confidence": 0.33,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000107",
+        "prediction": "Normal",
+        "anomaly_score": 0.0495,
+        "anomaly_confidence": 0.5,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000621",
+        "prediction": "Normal",
+        "anomaly_score": 0.1261,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000017",
+        "prediction": "Normal",
+        "anomaly_score": 0.0385,
+        "anomaly_confidence": 0.38,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000277",
+        "prediction": "Normal",
+        "anomaly_score": 0.0803,
+        "anomaly_confidence": 0.8,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000527",
+        "prediction": "Normal",
+        "anomaly_score": 0.106,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000197",
+        "prediction": "Normal",
+        "anomaly_score": 0.0258,
+        "anomaly_confidence": 0.26,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000118",
+        "prediction": "Normal",
+        "anomaly_score": 0.0027,
+        "anomaly_confidence": 0.03,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000984",
+        "prediction": "Normal",
+        "anomaly_score": 0.0133,
+        "anomaly_confidence": 0.13,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000130",
+        "prediction": "Normal",
+        "anomaly_score": 0.0021,
+        "anomaly_confidence": 0.02,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000866",
+        "prediction": "Normal",
+        "anomaly_score": 0.0199,
+        "anomaly_confidence": 0.2,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000346",
+        "prediction": "Normal",
+        "anomaly_score": 0.1268,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000561",
+        "prediction": "Normal",
+        "anomaly_score": 0.1183,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000890",
+        "prediction": "Normal",
+        "anomaly_score": 0.0578,
+        "anomaly_confidence": 0.58,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000263",
+        "prediction": "Normal",
+        "anomaly_score": 0.0411,
+        "anomaly_confidence": 0.41,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000675",
+        "prediction": "Normal",
+        "anomaly_score": 0.1398,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000184",
+        "prediction": "Normal",
+        "anomaly_score": 0.0407,
+        "anomaly_confidence": 0.41,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000052",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0042,
+        "anomaly_confidence": 0.04,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000066",
+        "prediction": "Normal",
+        "anomaly_score": 0.0003,
+        "anomaly_confidence": 0.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000086",
+        "prediction": "Normal",
+        "anomaly_score": 0.0159,
+        "anomaly_confidence": 0.16,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000664",
+        "prediction": "Normal",
+        "anomaly_score": 0.1278,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000014",
+        "prediction": "Normal",
+        "anomaly_score": 0.0215,
+        "anomaly_confidence": 0.21,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000701",
+        "prediction": "Normal",
+        "anomaly_score": 0.1321,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000545",
+        "prediction": "Normal",
+        "anomaly_score": 0.0892,
+        "anomaly_confidence": 0.89,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000600",
+        "prediction": "Normal",
+        "anomaly_score": 0.1438,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000241",
+        "prediction": "Normal",
+        "anomaly_score": 0.0314,
+        "anomaly_confidence": 0.31,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000165",
+        "prediction": "Normal",
+        "anomaly_score": 0.0112,
+        "anomaly_confidence": 0.11,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000239",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0037,
+        "anomaly_confidence": 0.04,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000602",
+        "prediction": "Normal",
+        "anomaly_score": 0.1273,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000649",
+        "prediction": "Normal",
+        "anomaly_score": 0.1285,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000043",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0188,
+        "anomaly_confidence": 0.19,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000479",
+        "prediction": "Normal",
+        "anomaly_score": 0.1577,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000738",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0468,
+        "anomaly_confidence": 0.47,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000924",
+        "prediction": "Normal",
+        "anomaly_score": 0.1296,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000369",
+        "prediction": "Normal",
+        "anomaly_score": 0.0074,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000877",
+        "prediction": "Normal",
+        "anomaly_score": 0.0579,
+        "anomaly_confidence": 0.58,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000893",
+        "prediction": "Normal",
+        "anomaly_score": 0.133,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000576",
+        "prediction": "Normal",
+        "anomaly_score": 0.1391,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000421",
+        "prediction": "Normal",
+        "anomaly_score": 0.1243,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000819",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0778,
+        "anomaly_confidence": 0.78,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000030",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0086,
+        "anomaly_confidence": 0.09,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000845",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.096,
+        "anomaly_confidence": 0.96,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000732",
+        "prediction": "Normal",
+        "anomaly_score": 0.007,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000222",
+        "prediction": "Normal",
+        "anomaly_score": 0.0353,
+        "anomaly_confidence": 0.35,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000751",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.044,
+        "anomaly_confidence": 0.44,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000769",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0235,
+        "anomaly_confidence": 0.24,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000704",
+        "prediction": "Normal",
+        "anomaly_score": 0.0639,
+        "anomaly_confidence": 0.64,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000136",
+        "prediction": "Normal",
+        "anomaly_score": 0.0439,
+        "anomaly_confidence": 0.44,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000734",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0657,
+        "anomaly_confidence": 0.66,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000129",
+        "prediction": "Normal",
+        "anomaly_score": 0.0395,
+        "anomaly_confidence": 0.4,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000632",
+        "prediction": "Normal",
+        "anomaly_score": 0.0695,
+        "anomaly_confidence": 0.7,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000811",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0184,
+        "anomaly_confidence": 0.18,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000994",
+        "prediction": "Normal",
+        "anomaly_score": 0.0228,
+        "anomaly_confidence": 0.23,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000971",
+        "prediction": "Normal",
+        "anomaly_score": 0.0484,
+        "anomaly_confidence": 0.48,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000051",
+        "prediction": "Normal",
+        "anomaly_score": 0.04,
+        "anomaly_confidence": 0.4,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000447",
+        "prediction": "Normal",
+        "anomaly_score": 0.0995,
+        "anomaly_confidence": 0.99,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000925",
+        "prediction": "Normal",
+        "anomaly_score": 0.1182,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000902",
+        "prediction": "Normal",
+        "anomaly_score": 0.1661,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000226",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0047,
+        "anomaly_confidence": 0.05,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000425",
+        "prediction": "Normal",
+        "anomaly_score": 0.1116,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000511",
+        "prediction": "Normal",
+        "anomaly_score": 0.1014,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000687",
+        "prediction": "Normal",
+        "anomaly_score": 0.1314,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000962",
+        "prediction": "Normal",
+        "anomaly_score": 0.0662,
+        "anomaly_confidence": 0.66,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000795",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0152,
+        "anomaly_confidence": 0.15,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000499",
+        "prediction": "Normal",
+        "anomaly_score": 0.1627,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000871",
+        "prediction": "Normal",
+        "anomaly_score": 0.0323,
+        "anomaly_confidence": 0.32,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000547",
+        "prediction": "Normal",
+        "anomaly_score": 0.1427,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000799",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0786,
+        "anomaly_confidence": 0.79,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000159",
+        "prediction": "Normal",
+        "anomaly_score": 0.0287,
+        "anomaly_confidence": 0.29,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000280",
+        "prediction": "Normal",
+        "anomaly_score": 0.0762,
+        "anomaly_confidence": 0.76,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000609",
+        "prediction": "Normal",
+        "anomaly_score": 0.1316,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000514",
+        "prediction": "Normal",
+        "anomaly_score": 0.1168,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000454",
+        "prediction": "Normal",
+        "anomaly_score": 0.1091,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000829",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0481,
+        "anomaly_confidence": 0.48,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000766",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0664,
+        "anomaly_confidence": 0.66,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000173",
+        "prediction": "Normal",
+        "anomaly_score": 0.0518,
+        "anomaly_confidence": 0.52,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000446",
+        "prediction": "Normal",
+        "anomaly_score": 0.1207,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000387",
+        "prediction": "Normal",
+        "anomaly_score": 0.1231,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000390",
+        "prediction": "Normal",
+        "anomaly_score": 0.1028,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000265",
+        "prediction": "Normal",
+        "anomaly_score": 0.0318,
+        "anomaly_confidence": 0.32,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000955",
+        "prediction": "Normal",
+        "anomaly_score": 0.0487,
+        "anomaly_confidence": 0.49,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000489",
+        "prediction": "Normal",
+        "anomaly_score": 0.1496,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000986",
+        "prediction": "Normal",
+        "anomaly_score": 0.1083,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000848",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0837,
+        "anomaly_confidence": 0.84,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000654",
+        "prediction": "Normal",
+        "anomaly_score": 0.0646,
+        "anomaly_confidence": 0.65,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000879",
+        "prediction": "Normal",
+        "anomaly_score": 0.0468,
+        "anomaly_confidence": 0.47,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000411",
+        "prediction": "Normal",
+        "anomaly_score": 0.1306,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000726",
+        "prediction": "Normal",
+        "anomaly_score": 0.1283,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000542",
+        "prediction": "Normal",
+        "anomaly_score": 0.1452,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000132",
+        "prediction": "Normal",
+        "anomaly_score": 0.0304,
+        "anomaly_confidence": 0.3,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000196",
+        "prediction": "Normal",
+        "anomaly_score": 0.0053,
+        "anomaly_confidence": 0.05,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000449",
+        "prediction": "Normal",
+        "anomaly_score": 0.1245,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000779",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0348,
+        "anomaly_confidence": 0.35,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000710",
+        "prediction": "Normal",
+        "anomaly_score": 0.1315,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000138",
+        "prediction": "Normal",
+        "anomaly_score": 0.0561,
+        "anomaly_confidence": 0.56,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000337",
+        "prediction": "Normal",
+        "anomaly_score": 0.1229,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000985",
+        "prediction": "Normal",
+        "anomaly_score": 0.1004,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000465",
+        "prediction": "Normal",
+        "anomaly_score": 0.1598,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000001",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0028,
+        "anomaly_confidence": 0.03,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000927",
+        "prediction": "Normal",
+        "anomaly_score": 0.1196,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000776",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0748,
+        "anomaly_confidence": 0.75,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000090",
+        "prediction": "Normal",
+        "anomaly_score": 0.0425,
+        "anomaly_confidence": 0.42,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000149",
+        "prediction": "Normal",
+        "anomaly_score": 0.0211,
+        "anomaly_confidence": 0.21,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000326",
+        "prediction": "Normal",
+        "anomaly_score": 0.1493,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000540",
+        "prediction": "Normal",
+        "anomaly_score": 0.0904,
+        "anomaly_confidence": 0.9,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000438",
+        "prediction": "Normal",
+        "anomaly_score": 0.1014,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000388",
+        "prediction": "Normal",
+        "anomaly_score": 0.1258,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000027",
+        "prediction": "Normal",
+        "anomaly_score": 0.0231,
+        "anomaly_confidence": 0.23,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000456",
+        "prediction": "Normal",
+        "anomaly_score": 0.1585,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000041",
+        "prediction": "Normal",
+        "anomaly_score": 0.0255,
+        "anomaly_confidence": 0.26,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000802",
+        "prediction": "Normal",
+        "anomaly_score": 0.0366,
+        "anomaly_confidence": 0.37,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000287",
+        "prediction": "Normal",
+        "anomaly_score": 0.1351,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000424",
+        "prediction": "Normal",
+        "anomaly_score": 0.1392,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000667",
+        "prediction": "Normal",
+        "anomaly_score": 0.1426,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000251",
+        "prediction": "Normal",
+        "anomaly_score": 0.056,
+        "anomaly_confidence": 0.56,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000791",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0016,
+        "anomaly_confidence": 0.02,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000607",
+        "prediction": "Normal",
+        "anomaly_score": 0.1217,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000451",
+        "prediction": "Normal",
+        "anomaly_score": 0.1235,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000627",
+        "prediction": "Normal",
+        "anomaly_score": 0.1087,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000524",
+        "prediction": "Normal",
+        "anomaly_score": 0.0869,
+        "anomaly_confidence": 0.87,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000015",
+        "prediction": "Normal",
+        "anomaly_score": 0.0129,
+        "anomaly_confidence": 0.13,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000850",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0598,
+        "anomaly_confidence": 0.6,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000095",
+        "prediction": "Normal",
+        "anomaly_score": 0.0342,
+        "anomaly_confidence": 0.34,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000091",
+        "prediction": "Normal",
+        "anomaly_score": 0.028,
+        "anomaly_confidence": 0.28,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000375",
+        "prediction": "Normal",
+        "anomaly_score": 0.1465,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000332",
+        "prediction": "Normal",
+        "anomaly_score": 0.0867,
+        "anomaly_confidence": 0.87,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000439",
+        "prediction": "Normal",
+        "anomaly_score": 0.1224,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000981",
+        "prediction": "Normal",
+        "anomaly_score": 0.1029,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000469",
+        "prediction": "Normal",
+        "anomaly_score": 0.0915,
+        "anomaly_confidence": 0.92,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000894",
+        "prediction": "Normal",
+        "anomaly_score": 0.0481,
+        "anomaly_confidence": 0.48,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000331",
+        "prediction": "Normal",
+        "anomaly_score": 0.0822,
+        "anomaly_confidence": 0.82,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000034",
+        "prediction": "Normal",
+        "anomaly_score": 0.0192,
+        "anomaly_confidence": 0.19,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000525",
+        "prediction": "Normal",
+        "anomaly_score": 0.1306,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000378",
+        "prediction": "Normal",
+        "anomaly_score": 0.1145,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000111",
+        "prediction": "Normal",
+        "anomaly_score": 0.0035,
+        "anomaly_confidence": 0.04,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000995",
+        "prediction": "Normal",
+        "anomaly_score": 0.0249,
+        "anomaly_confidence": 0.25,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000403",
+        "prediction": "Normal",
+        "anomaly_score": 0.0956,
+        "anomaly_confidence": 0.96,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000581",
+        "prediction": "Normal",
+        "anomaly_score": 0.1255,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000633",
+        "prediction": "Normal",
+        "anomaly_score": 0.0842,
+        "anomaly_confidence": 0.84,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000592",
+        "prediction": "Normal",
+        "anomaly_score": 0.1224,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000963",
+        "prediction": "Normal",
+        "anomaly_score": 0.1457,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000256",
+        "prediction": "Normal",
+        "anomaly_score": 0.0108,
+        "anomaly_confidence": 0.11,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000113",
+        "prediction": "Normal",
+        "anomaly_score": 0.0071,
+        "anomaly_confidence": 0.07,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000117",
+        "prediction": "Normal",
+        "anomaly_score": 0.0412,
+        "anomaly_confidence": 0.41,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000920",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.009,
+        "anomaly_confidence": 0.09,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000297",
+        "prediction": "Normal",
+        "anomaly_score": 0.1194,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000115",
+        "prediction": "Normal",
+        "anomaly_score": 0.0114,
+        "anomaly_confidence": 0.11,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000550",
+        "prediction": "Normal",
+        "anomaly_score": 0.1028,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000774",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0707,
+        "anomaly_confidence": 0.71,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000322",
+        "prediction": "Normal",
+        "anomaly_score": 0.1339,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000546",
+        "prediction": "Normal",
+        "anomaly_score": 0.1413,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000515",
+        "prediction": "Normal",
+        "anomaly_score": 0.1443,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000420",
+        "prediction": "Normal",
+        "anomaly_score": 0.13,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000190",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.012,
+        "anomaly_confidence": 0.12,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000940",
+        "prediction": "Normal",
+        "anomaly_score": 0.0692,
+        "anomaly_confidence": 0.69,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000824",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0704,
+        "anomaly_confidence": 0.7,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000714",
+        "prediction": "Normal",
+        "anomaly_score": 0.1366,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000223",
+        "prediction": "Normal",
+        "anomaly_score": 0.067,
+        "anomaly_confidence": 0.67,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000562",
+        "prediction": "Normal",
+        "anomaly_score": 0.1307,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000730",
+        "prediction": "Normal",
+        "anomaly_score": 0.0881,
+        "anomaly_confidence": 0.88,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000690",
+        "prediction": "Normal",
+        "anomaly_score": 0.1455,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000495",
+        "prediction": "Normal",
+        "anomaly_score": 0.1327,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000250",
+        "prediction": "Normal",
+        "anomaly_score": 0.039,
+        "anomaly_confidence": 0.39,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000702",
+        "prediction": "Normal",
+        "anomaly_score": 0.0992,
+        "anomaly_confidence": 0.99,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000260",
+        "prediction": "Anomaly",
+        "anomaly_score": -0.0087,
+        "anomaly_confidence": 0.09,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000209",
+        "prediction": "Normal",
+        "anomaly_score": 0.0332,
+        "anomaly_confidence": 0.33,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000254",
+        "prediction": "Normal",
+        "anomaly_score": 0.0315,
+        "anomaly_confidence": 0.32,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000166",
+        "prediction": "Normal",
+        "anomaly_score": 0.0491,
+        "anomaly_confidence": 0.49,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000429",
+        "prediction": "Normal",
+        "anomaly_score": 0.1179,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000185",
+        "prediction": "Normal",
+        "anomaly_score": 0.0435,
+        "anomaly_confidence": 0.43,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000684",
+        "prediction": "Normal",
+        "anomaly_score": 0.1012,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000549",
+        "prediction": "Normal",
+        "anomaly_score": 0.0878,
+        "anomaly_confidence": 0.88,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000959",
+        "prediction": "Normal",
+        "anomaly_score": 0.0853,
+        "anomaly_confidence": 0.85,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000677",
+        "prediction": "Normal",
+        "anomaly_score": 0.1115,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000497",
+        "prediction": "Normal",
+        "anomaly_score": 0.1198,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000952",
+        "prediction": "Normal",
+        "anomaly_score": 0.0077,
+        "anomaly_confidence": 0.08,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000384",
+        "prediction": "Normal",
+        "anomaly_score": 0.1195,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000708",
+        "prediction": "Normal",
+        "anomaly_score": 0.1441,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000157",
+        "prediction": "Normal",
+        "anomaly_score": 0.0337,
+        "anomaly_confidence": 0.34,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000578",
+        "prediction": "Normal",
+        "anomaly_score": 0.1413,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000897",
+        "prediction": "Normal",
+        "anomaly_score": 0.1327,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000301",
+        "prediction": "Normal",
+        "anomaly_score": 0.1598,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    },
+    {
+        "event_id": "EVT-000440",
+        "prediction": "Normal",
+        "anomaly_score": 0.1441,
+        "anomaly_confidence": 1.0,
+        "model": "Isolation Forest"
+    }
+]

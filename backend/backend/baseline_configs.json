@@ -1,0 +1,1786 @@
+[
+    {
+        "control_id": "CTRL-IAM-010",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "access_key_rotation",
+        "baseline_value": "90 days",
+        "environment": "Staging",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS AWS Foundations 1.4"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-012",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "log_file_validation",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-9",
+            "PCI DSS 4.0"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-022",
+        "domain": "Network",
+        "system": "Palo Alto Firewall",
+        "parameter": "url_filtering",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Secure Configuration"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-001",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "mfa_enabled",
+        "baseline_value": "Required",
+        "environment": "Production",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST IA-2",
+            "CIS 6",
+            "MITRE T1556"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-002",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "mfa_enabled",
+        "baseline_value": "Required",
+        "environment": "Staging",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST IA-2",
+            "CIS 6",
+            "MITRE T1556"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-001",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "port_443",
+        "baseline_value": "Allow",
+        "environment": "Production",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Network Devices"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-009",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "firewall_logging",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST SI-4"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-011",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "defender_enabled",
+        "baseline_value": "Running",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-003",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "mfa_enabled",
+        "baseline_value": "Required",
+        "environment": "Development",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST IA-2",
+            "CIS 6",
+            "MITRE T1556"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-016",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "kms_encryption",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST SC-13",
+            "GDPR Article 32"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-007",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "bucket_encryption",
+        "baseline_value": "AES256",
+        "environment": "Development",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "GDPR Article 32",
+            "PCI DSS 4.0"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-024",
+        "domain": "Cloud",
+        "system": "AWS EC2",
+        "parameter": "instance_metadata_v2",
+        "baseline_value": "Required",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS AWS Foundations 1.5"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-002",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "bitlocker",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "CIS Endpoint Controls",
+            "NIST SC-28"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-022",
+        "domain": "Cloud",
+        "system": "AWS EC2",
+        "parameter": "instance_metadata_v2",
+        "baseline_value": "Required",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS AWS Foundations 1.5"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-005",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "multi_region_trail",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2",
+            "CIS 8.5"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-019",
+        "domain": "Network",
+        "system": "Palo Alto Firewall",
+        "parameter": "threat_prevention",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST SI-4",
+            "MITRE T1562"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-016",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "least_privilege",
+        "baseline_value": "Enforced",
+        "environment": "Testing",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST AC-6"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-029",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "auto_updates",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-024",
+        "domain": "Network",
+        "system": "Palo Alto Firewall",
+        "parameter": "url_filtering",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Secure Configuration"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-020",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "auditd_enabled",
+        "baseline_value": "Running",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-005",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "password_policy",
+        "baseline_value": "Strong (Min14Chars)",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST IA-5"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-016",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "ssh_access",
+        "baseline_value": "Restricted",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Network Devices"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-032",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "auto_updates",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-013",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "auto_updates",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-004",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "port_443",
+        "baseline_value": "Allow",
+        "environment": "Testing",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Network Devices"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-002",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "cloudtrail_enabled",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST AU-2",
+            "CIS 8.5",
+            "MITRE T1562"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-020",
+        "domain": "Cloud",
+        "system": "AWS EC2",
+        "parameter": "ebs_encryption",
+        "baseline_value": "AES256",
+        "environment": "Testing",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST SC-13",
+            "GDPR Article 32"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-018",
+        "domain": "Network",
+        "system": "Palo Alto Firewall",
+        "parameter": "threat_prevention",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST SI-4",
+            "MITRE T1562"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-008",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "multi_region_trail",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2",
+            "CIS 8.5"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-019",
+        "domain": "Cloud",
+        "system": "Azure Monitor",
+        "parameter": "diagnostic_logging",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-012",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "firewall_logging",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST SI-4"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-022",
+        "domain": "Identity",
+        "system": "Microsoft Entra ID",
+        "parameter": "mfa_enabled",
+        "baseline_value": "Required",
+        "environment": "Staging",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST IA-2",
+            "CIS 6",
+            "MITRE T1556"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-018",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "auditd_enabled",
+        "baseline_value": "Running",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-004",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "cloudtrail_enabled",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST AU-2",
+            "CIS 8.5",
+            "MITRE T1562"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-009",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "defender_enabled",
+        "baseline_value": "Running",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-015",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "access_logging",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2",
+            "CIS 3.1"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-020",
+        "domain": "Identity",
+        "system": "Microsoft Entra ID",
+        "parameter": "conditional_access",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST IA-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-015",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "least_privilege",
+        "baseline_value": "Enforced",
+        "environment": "Development",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST AC-6"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-025",
+        "domain": "Cloud",
+        "system": "Azure Monitor",
+        "parameter": "retention_days",
+        "baseline_value": "365 days",
+        "environment": "Production",
+        "severity_if_drifted": "LOW",
+        "compliance_mappings": [
+            "GDPR Article 5"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-004",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "public_access",
+        "baseline_value": "Disabled",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS AWS Foundations 2.1"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-014",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "ssh_access",
+        "baseline_value": "Restricted",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Network Devices"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-017",
+        "domain": "Cloud",
+        "system": "AWS EC2",
+        "parameter": "ebs_encryption",
+        "baseline_value": "AES256",
+        "environment": "Production",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST SC-13",
+            "GDPR Article 32"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-015",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "auto_updates",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-002",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "port_443",
+        "baseline_value": "Allow",
+        "environment": "Staging",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Network Devices"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-011",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "log_file_validation",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-9",
+            "PCI DSS 4.0"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-024",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "selinux",
+        "baseline_value": "Enforcing",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST SI-7"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-018",
+        "domain": "Cloud",
+        "system": "AWS EC2",
+        "parameter": "ebs_encryption",
+        "baseline_value": "AES256",
+        "environment": "Staging",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST SC-13",
+            "GDPR Article 32"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-011",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "versioning",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS AWS Foundations 2.5"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-028",
+        "domain": "Identity",
+        "system": "Microsoft Entra ID",
+        "parameter": "risk_policy",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST IA-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-027",
+        "domain": "Network",
+        "system": "Palo Alto Firewall",
+        "parameter": "logging_enabled",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-003",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "port_443",
+        "baseline_value": "Allow",
+        "environment": "Development",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Network Devices"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-018",
+        "domain": "Cloud",
+        "system": "Azure Monitor",
+        "parameter": "diagnostic_logging",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-013",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "least_privilege",
+        "baseline_value": "Enforced",
+        "environment": "Production",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST AC-6"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-016",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "auto_updates",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-017",
+        "domain": "Cloud",
+        "system": "Azure Monitor",
+        "parameter": "diagnostic_logging",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-023",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "selinux",
+        "baseline_value": "Enforcing",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST SI-7"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-007",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "port_8080",
+        "baseline_value": "Deny",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Network Devices"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-022",
+        "domain": "Cloud",
+        "system": "Azure Monitor",
+        "parameter": "metrics_collection",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "LOW",
+        "compliance_mappings": [
+            "NIST SI-4"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-025",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "ufw_firewall",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Ubuntu Benchmark"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-014",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "kms_encryption",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST SC-13",
+            "GDPR Article 32"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-021",
+        "domain": "Network",
+        "system": "Palo Alto Firewall",
+        "parameter": "url_filtering",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Secure Configuration"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-023",
+        "domain": "Cloud",
+        "system": "AWS EC2",
+        "parameter": "instance_metadata_v2",
+        "baseline_value": "Required",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS AWS Foundations 1.5"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-012",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "access_key_rotation",
+        "baseline_value": "90 days",
+        "environment": "Testing",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS AWS Foundations 1.4"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-021",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "selinux",
+        "baseline_value": "Enforcing",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST SI-7"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-012",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "versioning",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS AWS Foundations 2.5"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-018",
+        "domain": "Identity",
+        "system": "Microsoft Entra ID",
+        "parameter": "conditional_access",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST IA-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-020",
+        "domain": "Network",
+        "system": "Palo Alto Firewall",
+        "parameter": "threat_prevention",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST SI-4",
+            "MITRE T1562"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-013",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "kms_encryption",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST SC-13",
+            "GDPR Article 32"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-001",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "public_access",
+        "baseline_value": "Disabled",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS AWS Foundations 2.1"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-013",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "ssh_access",
+        "baseline_value": "Restricted",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Network Devices"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-019",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "auditd_enabled",
+        "baseline_value": "Running",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-026",
+        "domain": "Cloud",
+        "system": "Azure Monitor",
+        "parameter": "retention_days",
+        "baseline_value": "365 days",
+        "environment": "Staging",
+        "severity_if_drifted": "LOW",
+        "compliance_mappings": [
+            "GDPR Article 5"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-031",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "auto_updates",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-003",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "cloudtrail_enabled",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST AU-2",
+            "CIS 8.5",
+            "MITRE T1562"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-026",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "ufw_firewall",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Ubuntu Benchmark"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-028",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "ufw_firewall",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Ubuntu Benchmark"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-011",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "access_key_rotation",
+        "baseline_value": "90 days",
+        "environment": "Development",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS AWS Foundations 1.4"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-008",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "windows_firewall",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-006",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "port_8080",
+        "baseline_value": "Deny",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Network Devices"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-013",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "access_logging",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2",
+            "CIS 3.1"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-028",
+        "domain": "Cloud",
+        "system": "AWS EC2",
+        "parameter": "monitoring_enabled",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "NIST SI-4"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-028",
+        "domain": "Cloud",
+        "system": "Azure Monitor",
+        "parameter": "retention_days",
+        "baseline_value": "365 days",
+        "environment": "Testing",
+        "severity_if_drifted": "LOW",
+        "compliance_mappings": [
+            "GDPR Article 5"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-017",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "auditd_enabled",
+        "baseline_value": "Running",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-030",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "auto_updates",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-012",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "defender_enabled",
+        "baseline_value": "Running",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-025",
+        "domain": "Cloud",
+        "system": "AWS EC2",
+        "parameter": "monitoring_enabled",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "NIST SI-4"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-010",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "log_file_validation",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-9",
+            "PCI DSS 4.0"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-010",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "firewall_logging",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST SI-4"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-027",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "ufw_firewall",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Ubuntu Benchmark"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-027",
+        "domain": "Cloud",
+        "system": "AWS EC2",
+        "parameter": "monitoring_enabled",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "NIST SI-4"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-021",
+        "domain": "Identity",
+        "system": "Microsoft Entra ID",
+        "parameter": "mfa_enabled",
+        "baseline_value": "Required",
+        "environment": "Production",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST IA-2",
+            "CIS 6",
+            "MITRE T1556"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-009",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "access_key_rotation",
+        "baseline_value": "90 days",
+        "environment": "Production",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS AWS Foundations 1.4"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-015",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "ssh_access",
+        "baseline_value": "Restricted",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Network Devices"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-003",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "bitlocker",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "CIS Endpoint Controls",
+            "NIST SC-28"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-004",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "bitlocker",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "CIS Endpoint Controls",
+            "NIST SC-28"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-017",
+        "domain": "Network",
+        "system": "Palo Alto Firewall",
+        "parameter": "threat_prevention",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST SI-4",
+            "MITRE T1562"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-026",
+        "domain": "Network",
+        "system": "Palo Alto Firewall",
+        "parameter": "logging_enabled",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-028",
+        "domain": "Network",
+        "system": "Palo Alto Firewall",
+        "parameter": "logging_enabled",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-001",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "bitlocker",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "CIS Endpoint Controls",
+            "NIST SC-28"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-024",
+        "domain": "Cloud",
+        "system": "Azure Monitor",
+        "parameter": "metrics_collection",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "LOW",
+        "compliance_mappings": [
+            "NIST SI-4"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-007",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "multi_region_trail",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2",
+            "CIS 8.5"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-008",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "password_policy",
+        "baseline_value": "Strong (Min14Chars)",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST IA-5"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-010",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "defender_enabled",
+        "baseline_value": "Running",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-006",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "multi_region_trail",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2",
+            "CIS 8.5"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-006",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "password_policy",
+        "baseline_value": "Strong (Min14Chars)",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST IA-5"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-005",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "bucket_encryption",
+        "baseline_value": "AES256",
+        "environment": "Production",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "GDPR Article 32",
+            "PCI DSS 4.0"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-005",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "windows_firewall",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-027",
+        "domain": "Identity",
+        "system": "Microsoft Entra ID",
+        "parameter": "risk_policy",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST IA-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-005",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "port_8080",
+        "baseline_value": "Deny",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Network Devices"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-025",
+        "domain": "Identity",
+        "system": "Microsoft Entra ID",
+        "parameter": "risk_policy",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST IA-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-019",
+        "domain": "Cloud",
+        "system": "AWS EC2",
+        "parameter": "ebs_encryption",
+        "baseline_value": "AES256",
+        "environment": "Development",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST SC-13",
+            "GDPR Article 32"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-009",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "log_file_validation",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-9",
+            "PCI DSS 4.0"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-001",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "cloudtrail_enabled",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST AU-2",
+            "CIS 8.5",
+            "MITRE T1562"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-006",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "windows_firewall",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-014",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "least_privilege",
+        "baseline_value": "Enforced",
+        "environment": "Staging",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST AC-6"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-020",
+        "domain": "Cloud",
+        "system": "Azure Monitor",
+        "parameter": "diagnostic_logging",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-010",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "versioning",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS AWS Foundations 2.5"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-002",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "public_access",
+        "baseline_value": "Disabled",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS AWS Foundations 2.1"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-027",
+        "domain": "Cloud",
+        "system": "Azure Monitor",
+        "parameter": "retention_days",
+        "baseline_value": "365 days",
+        "environment": "Development",
+        "severity_if_drifted": "LOW",
+        "compliance_mappings": [
+            "GDPR Article 5"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-023",
+        "domain": "Identity",
+        "system": "Microsoft Entra ID",
+        "parameter": "mfa_enabled",
+        "baseline_value": "Required",
+        "environment": "Development",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST IA-2",
+            "CIS 6",
+            "MITRE T1556"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-024",
+        "domain": "Identity",
+        "system": "Microsoft Entra ID",
+        "parameter": "mfa_enabled",
+        "baseline_value": "Required",
+        "environment": "Testing",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST IA-2",
+            "CIS 6",
+            "MITRE T1556"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-008",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "port_8080",
+        "baseline_value": "Deny",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Network Devices"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-014",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "access_logging",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2",
+            "CIS 3.1"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-023",
+        "domain": "Cloud",
+        "system": "Azure Monitor",
+        "parameter": "metrics_collection",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "LOW",
+        "compliance_mappings": [
+            "NIST SI-4"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-017",
+        "domain": "Identity",
+        "system": "Microsoft Entra ID",
+        "parameter": "conditional_access",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST IA-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-003",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "public_access",
+        "baseline_value": "Disabled",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS AWS Foundations 2.1"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-022",
+        "domain": "Endpoint",
+        "system": "Linux Server",
+        "parameter": "selinux",
+        "baseline_value": "Enforcing",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST SI-7"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-007",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "windows_firewall",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-023",
+        "domain": "Network",
+        "system": "Palo Alto Firewall",
+        "parameter": "url_filtering",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Secure Configuration"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-026",
+        "domain": "Cloud",
+        "system": "AWS EC2",
+        "parameter": "monitoring_enabled",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "NIST SI-4"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-015",
+        "domain": "Cloud",
+        "system": "AWS CloudTrail",
+        "parameter": "kms_encryption",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST SC-13",
+            "GDPR Article 32"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-021",
+        "domain": "Cloud",
+        "system": "AWS EC2",
+        "parameter": "instance_metadata_v2",
+        "baseline_value": "Required",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "CIS AWS Foundations 1.5"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-019",
+        "domain": "Identity",
+        "system": "Microsoft Entra ID",
+        "parameter": "conditional_access",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST IA-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-008",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "bucket_encryption",
+        "baseline_value": "AES256",
+        "environment": "Testing",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "GDPR Article 32",
+            "PCI DSS 4.0"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-007",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "password_policy",
+        "baseline_value": "Strong (Min14Chars)",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST IA-5"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-009",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "versioning",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS AWS Foundations 2.5"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-016",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "access_logging",
+        "baseline_value": "Enabled",
+        "environment": "Testing",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2",
+            "CIS 3.1"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-004",
+        "domain": "Identity",
+        "system": "AWS IAM",
+        "parameter": "mfa_enabled",
+        "baseline_value": "Required",
+        "environment": "Testing",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "NIST IA-2",
+            "CIS 6",
+            "MITRE T1556"
+        ]
+    },
+    {
+        "control_id": "CTRL-IAM-026",
+        "domain": "Identity",
+        "system": "Microsoft Entra ID",
+        "parameter": "risk_policy",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST IA-2"
+        ]
+    },
+    {
+        "control_id": "CTRL-LOG-021",
+        "domain": "Cloud",
+        "system": "Azure Monitor",
+        "parameter": "metrics_collection",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "LOW",
+        "compliance_mappings": [
+            "NIST SI-4"
+        ]
+    },
+    {
+        "control_id": "CTRL-SRV-014",
+        "domain": "Endpoint",
+        "system": "Windows Server",
+        "parameter": "auto_updates",
+        "baseline_value": "Enabled",
+        "environment": "Staging",
+        "severity_if_drifted": "MEDIUM",
+        "compliance_mappings": [
+            "CIS Endpoint Controls"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-011",
+        "domain": "Network",
+        "system": "Cisco Firewall",
+        "parameter": "firewall_logging",
+        "baseline_value": "Enabled",
+        "environment": "Development",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST SI-4"
+        ]
+    },
+    {
+        "control_id": "CTRL-CLD-006",
+        "domain": "Cloud",
+        "system": "AWS S3",
+        "parameter": "bucket_encryption",
+        "baseline_value": "AES256",
+        "environment": "Staging",
+        "severity_if_drifted": "CRITICAL",
+        "compliance_mappings": [
+            "GDPR Article 32",
+            "PCI DSS 4.0"
+        ]
+    },
+    {
+        "control_id": "CTRL-NET-025",
+        "domain": "Network",
+        "system": "Palo Alto Firewall",
+        "parameter": "logging_enabled",
+        "baseline_value": "Enabled",
+        "environment": "Production",
+        "severity_if_drifted": "HIGH",
+        "compliance_mappings": [
+            "NIST AU-2"
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "system":"AWS CloudTrail",
+        "depends_on":[
+            "AWS IAM",
+            "AWS EC2",
+            "AWS S3"
+        ]
+    },
+    {
+        "system":"AWS IAM",
+        "depends_on":[
+            "AWS EC2",
+            "AWS S3"
+        ]
+    },
+    {
+        "system":"AWS EC2",
+        "depends_on":[
+            "AWS S3"
+        ]
+    },
+    {
+        "system":"AWS S3",
+        "depends_on":[]
+    },
+    {
+        "system":"Azure Monitor",
+        "depends_on":[
+            "Microsoft Entra ID"
+        ]
+    },
+    {
+        "system":"Microsoft Entra ID",
+        "depends_on":[]
+    },
+    {
+        "system":"Cisco Firewall",
+        "depends_on":[
+            "Windows Server",
+            "Linux Server"
+        ]
+    },
+    {
+        "system":"Palo Alto Firewall",
+        "depends_on":[
+            "Windows Server",
+            "Linux Server"
+        ]
+    },
+    {
+        "system":"Windows Server",
+        "depends_on":[
+            "AWS IAM"
+        ]
+    },
+    {
+        "system":"Linux Server",
+        "depends_on":[
+            "AWS IAM"
+        ]
+    }
+]
