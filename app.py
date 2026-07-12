@@ -8,12 +8,12 @@ from streamlit_option_menu import option_menu
 from utils.loader import load_drift_report
 from utils.styles import load_css
 
-from pages.dashboard import show_dashboard
-from pages.drift_analysis import show_drift_analysis
-from pages.incidents import show_incidents
-from pages.compliance import show_compliance
-from pages.reports import show_reports
-from pages.settings import show_settings
+from my_pages.dashboard import show_dashboard
+from my_pages.drift_analysis import show_drift_analysis
+from my_pages.incidents import show_incidents
+from my_pages.compliance import show_compliance
+from my_pages.reports import show_reports
+from my_pages.settings import show_settings
 
 
 # ==============================
@@ -22,7 +22,6 @@ from pages.settings import show_settings
 
 st.set_page_config(
     page_title="Security Control Drift Detection",
-    page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -45,10 +44,7 @@ df = load_drift_report()
 
 with st.sidebar:
 
-    st.image(
-        "https://img.icons8.com/fluency/96/security-checked.png",
-        width=80
-    )
+    
 
     st.title("Security Drift")
 
