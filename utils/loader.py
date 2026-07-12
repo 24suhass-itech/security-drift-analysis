@@ -1,11 +1,10 @@
 import pandas as pd
-import streamlit as st
+
 
 def load_drift_report():
+    """
+    Loads the drift report dataset.
+    """
 
     df = pd.read_csv("data/drift_report.csv")
-
-    st.write(df.columns.tolist())
-    st.write(df.head())
-
     return df
