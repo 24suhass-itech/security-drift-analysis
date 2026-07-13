@@ -5,7 +5,7 @@ import plotly.express as px
 
 def show_drift_analysis(df):
 
-    st.title("📊 Drift Analysis")
+    st.title(" Drift Analysis")
 
     st.markdown("Analyze security configuration drift across your infrastructure.")
 

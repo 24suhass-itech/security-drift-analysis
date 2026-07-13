@@ -1,3 +1,4 @@
+import os
 import json
 import pandas as pd
 
@@ -33,7 +34,11 @@ def run():
 
         drift_detected = baseline_value != current_value
 
-        severity = baseline["severity_if_drifted"] if drift_detected else "NONE"
+        severity = (
+            baseline["severity_if_drifted"]
+            if drift_detected
+            else "NONE"
+        )
 
         drift_report.append({
 
@@ -73,10 +78,21 @@ def run():
 
     drift_df = pd.DataFrame(drift_report)
 
-    drift_df.to_csv("drift_report.csv", index=False)
+    csv_file = "drift_report.csv"
+    json_file = "drift_report.json"
+
+    if os.path.exists(csv_file):
+        os.remove(csv_file)
+        print("Previous drift_report.csv deleted.")
+
+    if os.path.exists(json_file):
+        os.remove(json_file)
+        print("Previous drift_report.json deleted.")
+
+    drift_df.to_csv(csv_file, index=False)
 
     drift_df.to_json(
-        "drift_report.json",
+        json_file,
         orient="records",
         indent=4
     )
@@ -96,13 +112,18 @@ def run():
 
     print("\nTop Drifted Parameters")
     print(
-        drift_df[drift_df["drift_detected"] == True]
-        ["parameter"]
+        drift_df[
+            drift_df["drift_detected"] == True
+        ]["parameter"]
         .value_counts()
         .head(10)
     )
 
-    return "drift_report.json"
+    print("\nDrift reports generated successfully.")
+    print(f"CSV  : {csv_file}")
+    print(f"JSON : {json_file}")
+
+    return json_file
 
 if __name__ == "__main__":
     output = run()

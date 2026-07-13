@@ -1,0 +1,14 @@
+[{
+        "event_id": "EVT-000394",
+        "timestamp": "2026-01-01T06:36:51Z",
+        "control_id": "CTRL-SRV-006",
+        "action": "modification",
+        "parameter": "windows_firewall",
+        "baseline_value": "Enabled",
+        "current_value": "Enabled",
+        "changed_by": "admin_041",
+        "change_source": "change_request",
+        "approval_status": "approved",
+        "environment": "staging",
+        "maintenance_window": true
+    }]

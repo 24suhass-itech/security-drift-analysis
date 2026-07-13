@@ -5,7 +5,7 @@ import json
 
 def show_reports(df):
 
-    st.title("📄 Reports & Export")
+    st.title(" Reports & Export")
 
     st.markdown("Generate and export drift analysis reports.")
 

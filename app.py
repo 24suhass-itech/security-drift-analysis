@@ -1,11 +1,12 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-# ==============================
-# IMPORTS
-# ==============================
+from utils.loader import (
+    load_drift_report,
+    load_compliance_mapping,
+    load_blast_radius
+)
 
-from utils.loader import load_drift_report
 from utils.styles import load_css
 
 from my_pages.dashboard import show_dashboard
@@ -14,11 +15,7 @@ from my_pages.incidents import show_incidents
 from my_pages.compliance import show_compliance
 from my_pages.reports import show_reports
 from my_pages.settings import show_settings
-
-
-# ==============================
-# PAGE CONFIG
-# ==============================
+from my_pages.blast_radius import show_blast_radius
 
 st.set_page_config(
     page_title="Security Control Drift Detection",
@@ -26,25 +23,13 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# ==============================
-# LOAD CUSTOM CSS
-# ==============================
-
 load_css()
 
-# ==============================
-# LOAD DATA
-# ==============================
-
-df = load_drift_report()
-
-# ==============================
-# SIDEBAR
-# ==============================
+drift_df = load_drift_report()
+compliance_df = load_compliance_mapping()
+blast_df = load_blast_radius()
 
 with st.sidebar:
-
-    
 
     st.title("Security Drift")
 
@@ -59,6 +44,7 @@ with st.sidebar:
             "Drift Analysis",
             "Incidents",
             "Compliance",
+            "Blast Radius",
             "Reports",
             "Settings"
         ],
@@ -67,6 +53,7 @@ with st.sidebar:
             "graph-up-arrow",
             "exclamation-triangle",
             "shield-check",
+            "bullseye",
             "file-earmark-bar-graph",
             "gear"
         ],
@@ -79,30 +66,30 @@ with st.sidebar:
 
     st.caption("Version 1.0")
 
-# ==============================
-# PAGE ROUTING
-# ==============================
-
 if selected == "Dashboard":
 
-    show_dashboard(df)
+    show_dashboard(drift_df)
 
 elif selected == "Drift Analysis":
 
-    show_drift_analysis(df)
+    show_drift_analysis(drift_df)
 
 elif selected == "Incidents":
 
-    show_incidents(df)
+    show_incidents(drift_df)
 
 elif selected == "Compliance":
 
-    show_compliance(df)
+    show_compliance(compliance_df)
+
+elif selected == "Blast Radius":
+
+    show_blast_radius(blast_df)
 
 elif selected == "Reports":
 
-    show_reports(df)
+    show_reports(drift_df)
 
 elif selected == "Settings":
 
-    show_settings(df)
+    show_settings(drift_df)

@@ -21,7 +21,7 @@ def show_dashboard(df):
     # TITLE
     # ============================================
 
-    st.title("🛡️ Security Control Drift Detection Dashboard")
+    st.title(" Security Control Drift Detection Dashboard")
 
     st.markdown(
         "Real-time monitoring of security control drift across enterprise infrastructure."
@@ -46,7 +46,7 @@ def show_dashboard(df):
     # EXECUTIVE SUMMARY
     # ============================================
 
-    st.subheader("📌 Executive Summary")
+    st.subheader(" Executive Summary")
 
     left, right = st.columns(2)
 
@@ -153,7 +153,7 @@ Immediate Investigation Recommended
     # HEATMAP
     # ============================================
 
-    st.subheader("🔥 Control Health Heatmap")
+    st.subheader(" Control Health Heatmap")
 
     heat = (
         df[df["drift_detected"] == True]
@@ -184,7 +184,7 @@ Immediate Investigation Recommended
     # TIMELINE
     # ============================================
 
-    st.subheader("📈 Drift Timeline")
+    st.subheader(" Drift Timeline")
 
     temp = df.copy()
 
@@ -215,7 +215,7 @@ Immediate Investigation Recommended
     # LIVE ALERT PANEL
     # ============================================
 
-    st.subheader("🚨 Latest Critical Alerts")
+    st.subheader(" Latest Critical Alerts")
 
     alerts = (
         df[df["severity"] == "CRITICAL"]
@@ -243,7 +243,7 @@ Immediate Investigation Recommended
     # TOP DRIFTED CONTROLS
     # ============================================
 
-    st.subheader("🏆 Top Drifted Controls")
+    st.subheader(" Top Drifted Controls")
 
     top_controls = (
         df[df["drift_detected"] == True]
@@ -270,7 +270,7 @@ Immediate Investigation Recommended
     # AI INSIGHTS (PLACEHOLDER)
     # ============================================
 
-    st.subheader("🤖 AI Security Insights")
+    st.subheader("AI Security Insights")
 
     st.info("""
 ### AI Recommendation Engine
